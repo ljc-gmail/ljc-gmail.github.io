@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+
+
+Sitemap: https://ljc-gmail.github.io/sitemap.xml
+Sitemap: https://ljc-gmail.github.io/baidusitemap.xml
+Sitemap: https://ljc-gmail.github.io/atom.xml
