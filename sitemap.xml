@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ljc-gmail.github.io/schedule/index.html</loc>
+    <loc>https://ljc-gmail.github.io/posts/4a17b156.html</loc>
     
-    <lastmod>2024-10-17</lastmod>
+    <lastmod>2024-10-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ljc-gmail.github.io/posts/4a17b156.html</loc>
+    <loc>https://ljc-gmail.github.io/posts/75951906.html</loc>
     
-    <lastmod>2024-10-15</lastmod>
+    <lastmod>2024-10-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljc-gmail.github.io/schedule/index.html</loc>
+    
+    <lastmod>2024-10-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,22 +67,29 @@
 
   <url>
     <loc>https://ljc-gmail.github.io/</loc>
-    <lastmod>2024-10-17</lastmod>
+    <lastmod>2024-10-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://ljc-gmail.github.io/tags/%E7%AB%99%E7%82%B9%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2024-10-17</lastmod>
+    <loc>https://ljc-gmail.github.io/tags/%E5%85%AC%E6%B0%91%E7%A4%BE%E4%BC%9A/</loc>
+    <lastmod>2024-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ljc-gmail.github.io/tags/%E7%AB%99%E7%82%B9%E6%B5%8B%E8%AF%952/</loc>
-    <lastmod>2024-10-17</lastmod>
+    <loc>https://ljc-gmail.github.io/tags/%E5%91%A8%E6%BF%82/</loc>
+    <lastmod>2024-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ljc-gmail.github.io/tags/%E7%AB%99%E7%82%B9%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2024-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -81,8 +97,15 @@
 
   
   <url>
+    <loc>https://ljc-gmail.github.io/categories/%E4%BB%96%E4%BA%BA%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2024-10-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ljc-gmail.github.io/categories/%E7%AB%99%E7%82%B9%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2024-10-17</lastmod>
+    <lastmod>2024-10-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
