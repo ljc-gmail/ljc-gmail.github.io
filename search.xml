@@ -3,7 +3,7 @@
   <entry>
     <title>一场文艺复兴的测试</title>
     <url>/posts/4a17b156.html</url>
-    <content><![CDATA[<img src="../images/chunking-express.jpg" alt="chunking-express" style="zoom: 10%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="../images/chunking-express.jpg" alt="chunking-express" style="zoom: 10%;" />
 
 <p>“不知道從什麽時候開始，在每個東西上都有一個日期。秋刀魚會過期，肉醬會過期，連保鮮紙都會過期，我開始懷疑在這個世界上還有什麽東西是不會過期的？”</p>
 <span id="more"></span>
@@ -23,7 +23,9 @@
 <h2 id="超链接测试"><a href="#超链接测试" class="headerlink" title="超链接测试"></a>超链接测试</h2><p><a href="https://we1005.junyan.art/posts/cfa2b402.html">当代中国的三大社会思潮 | 他的国 (junyan.art)</a></p>
 <h2 id="代码测试"><a href="#代码测试" class="headerlink" title="代码测试"></a>代码测试</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">double</span>&amp; <span class="title">lala</span><span class="params">(<span class="type">double</span> arg[])</span><span class="comment">//返回一个引用类型</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">double</span>&amp; a = arg[<span class="number">1</span>];</span><br><span class="line">    <span class="keyword">return</span> a;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="type">double</span> d_array[<span class="number">3</span>] = &#123; <span class="number">0.00</span>,<span class="number">1.23</span>,<span class="number">3.36</span> &#125;;</span><br><span class="line">    <span class="type">double</span>&amp; qq = <span class="built_in">lala</span>(d_array);</span><br><span class="line">    qq = <span class="number">5.42</span>;</span><br><span class="line">    cout &lt;&lt; d_array[<span class="number">1</span>] &lt;&lt; endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
-<h2 id="自定义html代码测试"><a href="#自定义html代码测试" class="headerlink" title="自定义html代码测试"></a>自定义html代码测试</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="410" height="110" src="//music.163.com/outchain/player?type=2&id=40729148&auto=0&height=66"></iframe>]]></content>
+<h2 id="自定义html代码测试"><a href="#自定义html代码测试" class="headerlink" title="自定义html代码测试"></a>自定义html代码测试</h2><h3 id="单曲"><a href="#单曲" class="headerlink" title="单曲"></a>单曲</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="410" height="110" src="//music.163.com/outchain/player?type=2&id=40729148&auto=0&height=66"></iframe>
+
+<h3 id="歌单"><a href="#歌单" class="headerlink" title="歌单"></a>歌单</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=12748367586&auto=0&height=430"></iframe>]]></content>
       <categories>
         <category>站点测试</category>
       </categories>
@@ -34,7 +36,7 @@
   <entry>
     <title>当代中国的三大社会思潮</title>
     <url>/posts/cfa2b402.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/f.jpeg" alt="f" style="zoom:50%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/f.jpeg" alt="f" style="zoom:50%;" />
 
 <p><strong>【内容提要】</strong></p>
 <p>改革开放以来，中国思想界所出现的三大社会思潮，集中反映了中国社会发展进程中的矛盾与冲突，鲜明表达了不同社会阶层、群体在急遽变动时代的感受与愿望。<br><strong>自由主义</strong>立基于市场经济和私有产权之上，扮演着哺育新阶级的乳母和代言人的角色。<br><strong>民族主义</strong>则以挑战全球化内在逻辑的姿态，对自由主义推荐给中国的未来选择发出强烈质疑。<br><strong>“新左派”</strong>承袭世界主流思潮的拷问现代性的批判性话语风格，将反思传统社会主义与批评资本主义和西化潮流融于一炉。</p>
@@ -237,7 +239,7 @@
   <entry>
     <title>从全能主义到权能主义</title>
     <url>/posts/5476417c.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/774a.jpg" alt="774a" style="zoom: 67%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/774a.jpg" alt="774a" style="zoom: 67%;" />
 
 <p>“中国的政治架构中，在中国共产党领导下，统合性权力即权力的整体性侧重于实现目标，制约性权力侧重于实现目标过程中降低腐败等成本损耗，二者结合起来，形成一种既能实现目标又有节制的权力能力。这样的一种结合状态，因其一方面强调权力朝向目标的整体合力，一方面强调权力各属性部分之间制约而又不至于僵化失能，可以探讨将之称为“权能主义”。”</p>
 <p>转载自<a href="https://page.om.qq.com/page/ONDZ4yUSpUBGeYN3PRIgd6Fw0">北大政治学公众号</a></p>
@@ -279,7 +281,7 @@
   <entry>
     <title>流沙状态的当代中国政治文化</title>
     <url>/posts/75951906.html</url>
-    <content><![CDATA[<img src="../images/2.png" alt="赛博朋克" style="zoom: 15%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="../images/2.png" alt="赛博朋克" style="zoom: 15%;" />
 
 <p>“以【<a href="https://zh.wikipedia.org/wiki/%E5%85%B1%E8%AF%86%E7%BD%91">共识网</a>】关停为标志，关于中国向何处去，朝野上下、左右之间已无共识可言，各方对于通过理性对话凝聚共识已经完全失去耐心和兴趣，纷纷离席撤场，各自深耕基本盘，争夺年轻人，或者用脚投票隔洋观望，或者只重耕耘不问收获，或者<strong>直接诉诸权力推行一己意志之实现</strong> 。” —— 周濂 </p>
 <p>（本文转载自<a href="https://www.cuhk.edu.hk/ics/21c/media/articles/c158-201611019.pdf">《二十一世纪》2016.12</a>）</p>
@@ -368,7 +370,7 @@
   <entry>
     <title>东欧民主化转型研究</title>
     <url>/posts/fed5f638.html</url>
-    <content><![CDATA[<img src="https://img.junyan.art/img/v2-7e9bcb74d151bda1f5d0f5304203148b_1440w.png" alt="金雁：东欧没有“剧变”，人民从未留恋" style="zoom: 50%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://img.junyan.art/img/v2-7e9bcb74d151bda1f5d0f5304203148b_1440w.png" alt="金雁：东欧没有“剧变”，人民从未留恋" style="zoom: 50%;" />
 
 <p> 剧变后的东欧，被我们形容为：“<strong>糟政府、烂社会</strong>、议会就像马戏团；<strong>分企业、卖银行、民族国家全卖光</strong>，到处是一派乱糟糟的<strong>无序民主</strong>”。在2008年金融危机时期，我们的报刊使用了“东欧陷落”、“东欧贫血症”、“东欧遭遇滑铁卢”等耸人听闻的字眼，甚至有些幸灾乐祸的心态，似乎是为了证明我们先经济改革而后政治体制改革的英明。</p>
 <span id="more"></span>
@@ -426,7 +428,7 @@
   <entry>
     <title>64运动探究</title>
     <url>/posts/18f3b6a7.html</url>
-    <content><![CDATA[<img src="https://img.junyan.art/img/image-20241019142401478.png" alt="image-20241019142401478" style="zoom:25%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://img.junyan.art/img/image-20241019142401478.png" alt="image-20241019142401478" style="zoom:25%;" />
 
 <p>“在世界范围内，对于一九八九年社会运动作出的解释，恰恰朝着有利于那些主张激进私有化的利益群体的方向发展，这个群体以真正的“激进改革者”的身份掩盖了它与国家权力、国内利益集团和跨国资本集团的错综复杂的关系，掩盖了在这一过程中的真实的利益关系，在全世界面前将自己展现为通向世界市场和民主的进步力量。”</p>
 <p>——<a href="https://zh.wikipedia.org/wiki/%E6%B1%AA%E6%99%96">汪晖</a>（国内左派学者）</p>
@@ -466,7 +468,7 @@
   <entry>
     <title>对中国式威权的思考</title>
     <url>/posts/91f74069.html</url>
-    <content><![CDATA[<img src="https://img.junyan.art/img/image-20241019141936671.png" alt="image-20241019141936671" style="zoom:10%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://img.junyan.art/img/image-20241019141936671.png" alt="image-20241019141936671" style="zoom:10%;" />
 
 <p>在我看来这个问题分为两个</p>
 <p>中国现阶段属于威权政体吗? 以及 中国将来会是威权政体吗？</p>
@@ -515,7 +517,7 @@
   <entry>
     <title>华夷之辩</title>
     <url>/posts/8cc9b4e8.html</url>
-    <content><![CDATA[<p><img src="http://img.junyan.art/img/b26.jpeg" alt="b26"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://img.junyan.art/img/b26.jpeg" alt="b26"></p>
 <p>&emsp;&emsp;”朱元璋以”驱除鞋虏，恢复中华”为旗帜而建立的明王朝，曾经实行过较彻底的非蒙古化整肃。又兼， 明中叶以后蒙古等边患始终困扰着明朝君臣，民族矛盾和华夷隔阂重新变得严峻起来。此时部分士大夫对许衡予以批评和非议，指责他以华人臣于元，”非春秋内夏外夷之义，有害名教”，从大汉族和非蒙古化的立场出发，其情绪是可以理解的。但是，元朝与明朝的时势截然不同。许衡所在的 时代是，南宋政权偏守东南一隅，国势衰微，军政腐败; 女真族建立的金王朝统治中原百年而亡，成吉思江征服缔造的蒙元帝国业已占据黄河流域，接着又发生蒙占少数族统一全国的百古木有的大事变。与后来清朝的情况类似，上大夫以往效忠的汉族政权已是子虚乌有。现实无情地逼迫许衡等有识之士必须正视和面对少数民族亦可与汉族一样入主中原乃至统一全国的大趋势，进而积极调适变通华夷正统观念，应对蒙元统治带来的新问题、新矛盾。”</p>
 <span id="more"></span>
 
@@ -545,7 +547,7 @@
   <entry>
     <title>UFO资料（五）Elena Danaan和新加坡超级士兵</title>
     <url>/posts/77f64f17.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/8d3e5.jpeg" alt="8d3e5" style="zoom: 33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/8d3e5.jpeg" alt="8d3e5" style="zoom: 33%;" />
 
 <p>“我们先从这位“异能者”谈起。因为妻儿都是新加坡人，所以说起来，这位异能者也算与我有点渊源，毕竟新加坡只是几百万人口的小国家。多谢新加坡的“迷信”环境，在那里遇到各种人和事，才让我这样的前唯物主义者有机会转变意识状态，相关轶事已在其他回答里零星介绍过，这里且略过不提。据我所知，新加坡一位反对党领袖是UFO目击者，另有一位前政治人物，是气功修炼者。但如果不是因为这个视频，我不会料到，原来新加坡政府高层，包括国父李光耀与UFO&#x2F;外星人同样存在瓜葛。”</p>
 <span id="more"></span>
@@ -786,7 +788,7 @@ Solipsi Rai
   <entry>
     <title>一所大学的失落与一种精神的缺失</title>
     <url>/posts/e4d52601.html</url>
-    <content><![CDATA[<img src="https://img.junyan.art/img/image-20241019141619066.png" alt="image-20241019141619066" style="zoom:10%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="https://img.junyan.art/img/image-20241019141619066.png" alt="image-20241019141619066" style="zoom:10%;" />
 
 <p>“刚刚电视上介绍你们学校来着，好多大师啊，羡慕”</p>
 <p>“是好多已故的大师吧？”</p>
@@ -858,12 +860,12 @@ Solipsi Rai
   <entry>
     <title>玄学探讨（六）濒死体验研究</title>
     <url>/posts/680f2458.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
   </entry>
   <entry>
     <title>玄学探讨（五）俄罗斯火星男孩</title>
     <url>/posts/96629dc5.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/2435a.jpeg" alt="2435a" style="zoom: 67%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/2435a.jpeg" alt="2435a" style="zoom: 67%;" />
 
 <p>“他们不是火星人，他指着屏幕说道。我们不像他们，我们更接近于里莫利亚种族和亚特兰蒂斯种族。首先，我们很高，他们是矮人，第二，灰人很残忍。他们来自另外一个银河系，他们自身执行任何对人的实验。我甚至和他们战斗过，因为他们是侵略者。我们的种族是善良的，较小的侵略性，还有高度的智慧，我们甚至可以使用超自然能量…”</p>
 <span id="more"></span>
@@ -1005,7 +1007,7 @@ Solipsi Rai
   <entry>
     <title>玄学探讨（四）一些疑惑</title>
     <url>/posts/4c8e5e14.html</url>
-    <content><![CDATA[<p><em>横看成岭侧成峰，远近高低各不同。</em><br><em>不识庐山真面目，只缘身在此山中。</em></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><em>横看成岭侧成峰，远近高低各不同。</em><br><em>不识庐山真面目，只缘身在此山中。</em></p>
 <p>——苏轼【宋】</p>
 <p>不同的人，相互矛盾的说法。迷茫中……..</p>
 <span id="more"></span>
@@ -1042,7 +1044,7 @@ Solipsi Rai
   <entry>
     <title>玄学探讨（三）台大李嗣涔教授</title>
     <url>/posts/a2b41594.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/9693f8.jpeg" alt="9693f8" style="zoom: 25%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/9693f8.jpeg" alt="9693f8" style="zoom: 25%;" />
 
 <p><strong>李嗣涔</strong>（1952年8月13日－），<a href="https://zh.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE">台湾</a><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%B8%A3">高雄县</a><a href="https://zh.wikipedia.org/wiki/%E5%B2%A1%E5%B1%B1%E5%8D%80">冈山镇</a>（今<a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E5%B8%82">高雄市</a>冈山区）出生[<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%97%A3%E6%B6%94#cite_note-1">1]</a>，原籍<a href="https://zh.wikipedia.org/wiki/%E6%B2%B3%E5%8D%97">河南</a><a href="https://zh.wikipedia.org/wiki/%E6%BF%9F%E6%BA%90">济源</a>，<a href="https://zh.wikipedia.org/wiki/%E9%9B%BB%E6%A9%9F%E5%B7%A5%E7%A8%8B">电机工程学</a>学者，主要研究<a href="https://zh.wikipedia.org/wiki/%E5%8D%8A%E5%B0%8E%E9%AB%94">半导体</a>领域，为台湾早期研究<a href="https://zh.wikipedia.org/wiki/%E9%9D%9E%E6%99%B6%E7%A1%85">非晶硅</a>的学者，亦为<a href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E9%9B%BB%E6%A9%9F%E9%9B%BB%E5%AD%90%E5%B7%A5%E7%A8%8B%E5%AD%B8%E6%9C%83">国际电机电子工程学会</a>会士（IEEE Fellow），在该领域有一定声望。后来应<a href="https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3">台湾</a><a href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E5%AE%B6%E7%A7%91%E5%AD%B8%E5%A7%94%E5%93%A1%E6%9C%83">国家科学委员会</a>主委<a href="https://zh.wikipedia.org/wiki/%E9%99%B3%E5%B1%A5%E5%AE%89">陈履安</a>等人的邀请转入<a href="https://zh.wikipedia.org/wiki/%E6%B0%A3%E5%8A%9F">气功</a>、<a href="https://zh.wikipedia.org/wiki/%E7%89%B9%E7%95%B0%E5%8A%9F%E8%83%BD">特异功能</a>方面的研究，而使其学术地位充满争议性。</p>
 <span id="more"></span>
@@ -1448,7 +1450,7 @@ Solipsi Rai
   <entry>
     <title>玄学探讨（二）孙储琳</title>
     <url>/posts/486b8e57.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/b0fa.jpeg" alt="b0fa" style="zoom: 25%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/b0fa.jpeg" alt="b0fa" style="zoom: 25%;" />
 
 <p>孙储琳，女，1957年出生在武汉。<a href="https://baike.so.com/doc/5350335-5585791.html">文化大革命</a>时期被送到南京奶奶家，在帮奶奶做农活时第一次发现自己的<a href="https://baike.so.com/doc/5400281-5637868.html">特异功能</a>(透视地面发现一个装满铜钱的坛子)。1979年于武汉地质学院当幼儿园老师，发现自己可以用耳朵认字，并发现自己可以透视人体。1981年曾短期在中国人民解放军总医院工作，用特异功能给病人透视。后回到武汉地质学院，于图书馆做出纳员工作。1987年她正式调入<a href="https://baike.so.com/doc/5843424-6056259.html">沈今川</a>教授的<a href="https://baike.so.com/doc/6230009-6443339.html">人体科学</a>研究所专职搞人体科学实验研究。</p>
 <p>(转载自<a href="https://baike.so.com/doc/6270628-6484052.html?adapt=1">360百科</a>)</p>
@@ -1584,7 +1586,7 @@ Solipsi Rai
   <entry>
     <title>玄学探讨（一）《坪阳再生人》</title>
     <url>/posts/569d229.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/23fb0.jpg" alt="23fb0" style="zoom: 33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/23fb0.jpg" alt="23fb0" style="zoom: 33%;" />
 
 <p>“…..本书纪录了一百位侗族再生人的故事。这些再生人，对前世的姓名与父母亲、死亡的细节、当“鬼”时的生活、转世投胎的过程……等等，都能详细叙述、娓娓道来。有些再生人身上具有与前世相符的胎记、伤疤或死亡时留下的痕迹，就像前世留下的记号，两者能够精准比对，让人啧啧称奇。有些再生人的灵魂能出窍，飞回前世家作客、探亲；有的再生人在死时分成两个灵魂，各自投胎，再先后连络上前世亲人。案例中，亦有由动物转世的再生人，呼应了侗族人“万物有灵”的信仰。….”</p>
 <p>本文主要内容来自<a href="https://www.books.com.tw/products/0010776345">《坪陽再生人：中國侗族100個轉世投胎案例實訪記錄》</a></p>
@@ -1656,7 +1658,7 @@ Solipsi Rai
   <entry>
     <title>UFO资料（四）以色列前国防部长的曝光</title>
     <url>/posts/19889376.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/e6a.jpg" alt="e6a" style="zoom:80%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/e6a.jpg" alt="e6a" style="zoom:80%;" />
 
 <p>—您现在就该主题接受采访，是否会冒上学术风险？</p>
 <p>—“今天我没有什么可失去的。我已经获得了学位和奖项，我在国外的大学中备受尊敬，即使在那里，趋势也正在改变，人们开始愿意谈论它。哪怕在许多地方仍然在说：’听着，让我们把大象留在房间里，且别告诉别人这是我们说的。’”</p>
@@ -2089,7 +2091,7 @@ Solipsi Rai
   <entry>
     <title>UFO资料（三）星门计划和异能者</title>
     <url>/posts/a98aa34e.html</url>
-    <content><![CDATA[<p><img src="http://img.junyan.art/img/5bb0.jpg" alt="5bb0"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://img.junyan.art/img/5bb0.jpg" alt="5bb0"></p>
 <p>”在科学界，有着为数众多的顶级科学家并不否认超自然事件的存在，他们早已跳出存在与否的争论，开始从事理论解释。精神粒子，中微子，人体磁场，电磁学理论曾被用来解释超自然的发生机制，但都存在一些缺陷。而量子力学的解释，更容易被科学家们接受。“</p>
 <p>（本文转载自<a href="https://www.zhihu.com/question/54922853/answer/817780574">知乎”夷人“的回答</a>）</p>
 <span id="more"></span>
@@ -2316,7 +2318,7 @@ Solipsi Rai
   <entry>
     <title>UFO研究（二）遥视外星人</title>
     <url>/posts/a48db4aa.html</url>
-    <content><![CDATA[<p><img src="http://img.junyan.art/img/519Z2EeZ+EL._SX260_.jpg" alt="519Z2EeZ+EL._SX260_"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://img.junyan.art/img/519Z2EeZ+EL._SX260_.jpg" alt="519Z2EeZ+EL._SX260_"></p>
 <p>“遥视 (RV) 是一种寻求关于遥远或看不见的目标的印象的做法，据称是用心灵“感知”。</p>
 <p>遥视在 1990 年代因与星门计划有关的某些文件的解密而普及，该计划是一项耗资 2000 万美元的研究计划，始于 1975 年，由美国政府赞助，旨在确定通灵现象的任何潜在军事应用。”</p>
 <p>（摘录自<a href="https://en.wikipedia.org/wiki/Remote_viewing">维基百科“遥视”</a>）</p>
@@ -2471,7 +2473,7 @@ Solipsi Rai
   <entry>
     <title>UFO研究（一）蓝皮书计划</title>
     <url>/posts/a509b5f7.html</url>
-    <content><![CDATA[<p><strong>蓝皮书计划</strong>（英语：<strong>Project Blue Book</strong>）是<a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD">美国</a><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B">空军</a>为调查<a href="https://zh.wikipedia.org/wiki/%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9">不明飞行物</a>（UFO）而成立的研究计划。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><strong>蓝皮书计划</strong>（英语：<strong>Project Blue Book</strong>）是<a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD">美国</a><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B">空军</a>为调查<a href="https://zh.wikipedia.org/wiki/%E4%B8%8D%E6%98%8E%E9%A3%9B%E8%A1%8C%E7%89%A9">不明飞行物</a>（UFO）而成立的研究计划。</p>
 <p>成立于1952年，于1969年12月被命令终止，但持续活动到1970年1月。</p>
 <p>该计划收集了12618件UFO报告，最后总结：大部分报告都只是误认了自然现象（云、星星等）或是普通飞行物。少数几件是谎报。有701件（约6%）被归类为原因不明。这份报告被归档了。现在因为<a href="https://zh.wikipedia.org/w/index.php?title=%E8%B3%87%E8%A8%8A%E5%85%AC%E9%96%8B%E6%B3%95&action=edit&redlink=1">资讯公开法</a>而可以取得，但其中提到的人名和所有证人的人事资料已经被涂去。</p>
 <span id="more"></span>
@@ -2516,7 +2518,7 @@ Solipsi Rai
   <entry>
     <title>2004年人民网采访杨继绳</title>
     <url>/posts/39a830ce.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/496.jpg" alt="496" style="zoom: 67%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/496.jpg" alt="496" style="zoom: 67%;" />
 
 <p>”他的文章曾得到过毛泽东、周恩来的批示，但他也是中国新闻界挨批层次最高的记者，有两届中宣部长都曾经批评过他的文章。“</p>
 <p>“新闻改革的长远目标是，新闻和政治权力采取相对独立的模式。在相对独立的模式下，记者可以自由的评论政治，批评政策，分析时局，法律是言论自由的唯一界定。”</p>
@@ -2590,7 +2592,7 @@ Solipsi Rai
   <entry>
     <title>公知为何成为贬义词？——唐世平</title>
     <url>/posts/bc889adb.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/3001.jpg" alt="img" style="zoom:50%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/3001.jpg" alt="img" style="zoom:50%;" />
 
 <p>“尽管大方向肯定重要，公知也不能停留在提出社会应该有的大方向（“左”还是“右）”的水平上。中国今天面临的问题不能光靠“把握大方向”解决，因为即便大方向是对的，也不能保证善治和良政的出现和稳定。正确的大方向只是善治和良政在中国扎根成长的必要而并非是充分条件。善治和良政的扎根成长需要的是具体的制度体系的支撑。”</p>
 <p><a href="https://www.guancha.cn/tangshiping">唐世平</a>（复旦大学国际关系与公共事务学院教授）2018-03-04 08:54:39</p>
@@ -2625,7 +2627,7 @@ Solipsi Rai
   <entry>
     <title>香港问题和世界真相——卢克文</title>
     <url>/posts/d95da33f.html</url>
-    <content><![CDATA[<p><img src="http://img.junyan.art/img/e3e.jpg" alt="e3e"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://img.junyan.art/img/e3e.jpg" alt="e3e"></p>
 <p>“香港作为中国大陆过去唯一的对外窗口，人、钱、货必经之 地，就像新加坡一样设了个收费站，躺着都赚到笑醒，香港 人真的以为全是凭“狮子山精神”才富裕的么？如果香港不 能正视世界的发展，不能正视大陆的崛起，还沉醉在西方世 界的话语系统里，迎合那些全面抹黑中国的言论，看不到世 间的真相，在精神上找到了比大陆高人一等的理论依靠，就 只能让香港问题愈演愈烈。”</p>
 <p>（转载自<a href="https://xxdtc.duanshu.com/#/single/93c851d5d69246d19ca224f791030ebd">卢克文工作室</a>）</p>
 <span id="more"></span>
@@ -2688,7 +2690,7 @@ Solipsi Rai
   <entry>
     <title>如何理解这几年的香港？——卢克文</title>
     <url>/posts/b6dad180.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/b1c.jpg" alt="b1c" style="zoom: 33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/b1c.jpg" alt="b1c" style="zoom: 33%;" />
 
 <p>“理性的声音在互联网上往往处于弱势，极端的声音在网络中穿透力更强，我们在互联网上见到有人说起香港，动不动就对所有参加游行的青年使用“曱甴”（yuē yóu）这个词，简单地用蟑螂来指代他们，并将他们全部粗暴地统一归类，这种说法在大陆网络平台上还挺受欢迎。”</p>
 <p><em>（转载自卢克文工作室 2021-11-01 15:06）</em></p>
@@ -2794,7 +2796,7 @@ Solipsi Rai
   <entry>
     <title>学潮研究（四）六四事件探究</title>
     <url>/posts/27717bbd.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/85.jpg" alt="85" style="zoom: 33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/85.jpg" alt="85" style="zoom: 33%;" />
 
 <p>&emsp;&emsp;“这是一个复合四合院，由南院和北院组成，是赵下台后的住处。赵的家人住在北院。门窗油漆一新。门外有一个小牌，上写着“非开放单位谢绝参观”。院里有几个战士看门。战士们住在南院的南屋。”</p>
 <span id="more"></span>
@@ -2852,7 +2854,7 @@ Solipsi Rai
   <entry>
     <title>习远平撰文忆父亲习仲勋</title>
     <url>/posts/91644c72.html</url>
-    <content><![CDATA[<p>“作为他最小的儿子，站在他的墓前，对着他的雕像，我想说些什么呢？我能说些什么呢？他老人家走过的这百年，是中国扭转乾坤、翻覆天地的百年。这百年的中国历史太丰富了，他的人生历程也太丰富了，我看不尽，听不够，也享用不完。我只能在我的思念中寻找，寻找他老人家在我一生中留下最深烙印的东西。”——习远平 </p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>“作为他最小的儿子，站在他的墓前，对着他的雕像，我想说些什么呢？我能说些什么呢？他老人家走过的这百年，是中国扭转乾坤、翻覆天地的百年。这百年的中国历史太丰富了，他的人生历程也太丰富了，我看不尽，听不够，也享用不完。我只能在我的思念中寻找，寻找他老人家在我一生中留下最深烙印的东西。”——习远平 </p>
 <p><strong>（转载自人民网    2013-10-11 09:46:36）</strong></p>
 <span id="more"></span>
 
@@ -2913,7 +2915,7 @@ Solipsi Rai
   <entry>
     <title>FT中文网对傅莹的采访</title>
     <url>/posts/fdd8c21f.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/de.jpg" alt="de" style="zoom: 50%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/de.jpg" alt="de" style="zoom: 50%;" />
 
 <p>“满头银发的中国人大会议发言人傅莹，在北京一家蒙古餐厅，就着手抓肉、奶茶和蒙古王烈酒，聊起李光耀、基辛格、人大立法改革，为什么中国的道路是正确的。”</p>
 <p><em><strong>更新于2015年4月24日 06:47 FT中文网创刊荣誉总编辑 <a href="https://www.chineseft.com/author/%E5%BC%A0%E5%8A%9B%E5%A5%8B">张力奋</a></strong></em></p>
@@ -3036,7 +3038,7 @@ Solipsi Rai
   <entry>
     <title>中国需要怎样的专栏作家？-张立奋（关于FT）</title>
     <url>/posts/4459ce78.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/Ftlogo.png" alt="Ftlogo" style="zoom:33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/Ftlogo.png" alt="Ftlogo" style="zoom:33%;" />
 
 <p>“我把专栏看作是一份出版物的性格。若你问，中国需要怎样的专栏作家，我会把扬雨果的雕像放在跟前。专栏作家，多半为影响力和眼球而写作。雨果不是。”</p>
 <p>更新于2015年5月11日 06:36 作者：英国《金融时报》专栏作家 <a href="https://www.chineseft.com/author/%E5%BC%A0%E5%8A%9B%E5%A5%8B">张力奋</a></p>
@@ -3067,7 +3069,7 @@ Solipsi Rai
 <p>&emsp;&emsp;专栏作家，有的笔力恒久，有的很快灯干油尽。我尚不知道自己命归哪类。所幸活在中国激变时代，码字者缈小，世局却崇大。</p>
 <p>&emsp;&emsp;当下全球传媒业黯淡，新闻人低首愁眉，扬雨果令人想起崇高、永恒与尊严。他是跨国界的。在专栏的开篇，我纪念这位前辈，立一个或许永远无法超越的门槛，幻想中国的思想花园，呼吸她应有的芬芳与自由。</p>
 <p>&emsp;&emsp;写于美国旧金山半月湾度假中</p>
-<p>（注：本文仅代表作者本人观点。作者简介：张力奋，FT中文网创刋总编辑，现任荣誉总编辑、专栏作家。电子邮箱：<a href="mailto:&#x6c;&#x69;&#x66;&#x65;&#x6e;&#46;&#122;&#104;&#97;&#110;&#x67;&#x40;&#x66;&#116;&#x63;&#x68;&#105;&#x6e;&#101;&#115;&#101;&#x2e;&#x63;&#111;&#x6d;">&#x6c;&#x69;&#x66;&#x65;&#x6e;&#46;&#122;&#104;&#97;&#110;&#x67;&#x40;&#x66;&#116;&#x63;&#x68;&#105;&#x6e;&#101;&#115;&#101;&#x2e;&#x63;&#111;&#x6d;</a>）</p>
+<p>（注：本文仅代表作者本人观点。作者简介：张力奋，FT中文网创刋总编辑，现任荣誉总编辑、专栏作家。电子邮箱：<a href="mailto:&#x6c;&#x69;&#102;&#x65;&#x6e;&#46;&#x7a;&#x68;&#x61;&#110;&#x67;&#64;&#x66;&#116;&#x63;&#104;&#x69;&#110;&#101;&#x73;&#x65;&#46;&#99;&#111;&#109;">&#x6c;&#x69;&#102;&#x65;&#x6e;&#46;&#x7a;&#x68;&#x61;&#110;&#x67;&#64;&#x66;&#116;&#x63;&#104;&#x69;&#110;&#101;&#x73;&#x65;&#46;&#99;&#111;&#109;</a>）</p>
 <h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="摘录一：张力奋对许知远的看法"><a href="#摘录一：张力奋对许知远的看法" class="headerlink" title="摘录一：张力奋对许知远的看法"></a>摘录一：张力奋对许知远的看法</h3><blockquote>
 <p>迄今，最飘逸的许知远写得时间最长。他长发已写成灰白，可惜稿酬并不见涨太多，这是我要道歉的。他的“中国纪事”，若干年后再读，会是珍贵的社会学文本；</p>
 </blockquote>
@@ -3087,7 +3089,7 @@ Solipsi Rai
   <entry>
     <title>与FT共进午餐：刘瑜</title>
     <url>/posts/1be68e6f.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/d2.jpg" alt="d2" style="zoom: 33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/d2.jpg" alt="d2" style="zoom: 33%;" />
 
 <p>”面对公知们只会坐在书斋中摇动笔杆的批评，清华政治学者刘瑜说，很欣赏一位朋友的话：中国的进步，不是靠一帮勇敢的人去触碰勇气的上限，而是靠普通人一起，一点点抬高勇气的下限。“</p>
 <p><em>2012年2月20日 07:45 英国《金融时报》中文网编辑 <a href="https://www.chineseft.com/author/%E7%8E%8B%E6%98%89">王昉</a></em></p>
@@ -3201,7 +3203,7 @@ Solipsi Rai
   <entry>
     <title>疫病蔓延时的旅行：隔离-许知远</title>
     <url>/posts/38c1b2a1.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/xu2.jpg" alt="xu2" style="zoom:33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/xu2.jpg" alt="xu2" style="zoom:33%;" />
 
 <p>&emsp;&emsp;“飞机降落于浦东机场时，我手忙脚乱地填写着电子表格，知道自己将进入一个二维码的世界，不断遭遇卡夫卡式的困境。”————许知远 2020年7月14日 12:33</p>
 <p><strong>（转载自FT中文网<a href="https://www.ftchinese.com/story/001088529?archive%EF%BC%89">疫病蔓延时的旅行：隔离</a>)</strong></p>
@@ -3261,7 +3263,7 @@ Solipsi Rai
   <entry>
     <title>疫病蔓延时的旅行：回京-许知远</title>
     <url>/posts/c73a7de1.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/xu1.jpg" alt="xu1" style="zoom: 33%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/xu1.jpg" alt="xu1" style="zoom: 33%;" />
 
 <p>“一些时候，我觉得自己是卡夫卡笔下的K，看着酒吧咖啡馆却无法进入；另一些时候，我觉得自己是贝克特笔下的戈多，徒劳等待着一个变绿的二维码。”——许知远 2020年7月20日 11:17</p>
 <p><strong>（转载自FT中文网<a href="https://www.ftchinese.com/story/001088605?archive">疫病蔓延时的旅行：回京</a>）</strong></p>
@@ -3292,7 +3294,7 @@ Solipsi Rai
   <entry>
     <title>读书笔记（四）杨继绳</title>
     <url>/posts/c0a2e8af.html</url>
-    <content><![CDATA[<p><strong>杨继绳</strong>（1940年11月－），<a href="https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81">湖北省</a><a href="https://zh.wikipedia.org/wiki/%E6%B5%A0%E6%B0%B4%E5%8E%BF">浠水县</a>人，<a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8F%AF%E7%A4%BE">新华社</a><a href="https://zh.wikipedia.org/wiki/%E9%80%80%E4%BC%91">退休</a><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%BA%A7%E8%AE%B0%E8%80%85">高级记者</a>、<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%AD%A6%E9%99%A2">中国新闻学院</a>教授[<a href="https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9#cite_note-1">1]</a>，曾任《<a href="https://zh.wikipedia.org/wiki/%E7%82%8E%E9%BB%83%E6%98%A5%E7%A7%8B">炎黄春秋</a>》杂志副社长，现居<a href="https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC">北京</a>[<a href="https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9#cite_note-%E6%9D%A8%E7%BB%A7%E7%BB%B3%EF%BC%9A%E6%8C%A5%E6%B3%AA%E4%B9%A6%E6%B0%91%E6%83%85-2">2]</a>，已婚并有一子一女。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><strong>杨继绳</strong>（1940年11月－），<a href="https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8C%97%E7%9C%81">湖北省</a><a href="https://zh.wikipedia.org/wiki/%E6%B5%A0%E6%B0%B4%E5%8E%BF">浠水县</a>人，<a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8F%AF%E7%A4%BE">新华社</a><a href="https://zh.wikipedia.org/wiki/%E9%80%80%E4%BC%91">退休</a><a href="https://zh.wikipedia.org/wiki/%E9%AB%98%E7%BA%A7%E8%AE%B0%E8%80%85">高级记者</a>、<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E6%96%B0%E9%97%BB%E5%AD%A6%E9%99%A2">中国新闻学院</a>教授[<a href="https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9#cite_note-1">1]</a>，曾任《<a href="https://zh.wikipedia.org/wiki/%E7%82%8E%E9%BB%83%E6%98%A5%E7%A7%8B">炎黄春秋</a>》杂志副社长，现居<a href="https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC">北京</a>[<a href="https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9#cite_note-%E6%9D%A8%E7%BB%A7%E7%BB%B3%EF%BC%9A%E6%8C%A5%E6%B3%AA%E4%B9%A6%E6%B0%91%E6%83%85-2">2]</a>，已婚并有一子一女。</p>
 <p>1964年4月加入<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%85%B1%E7%94%A2%E9%BB%A8">中国共产党</a>。1966年毕业时赶上了<a href="https://zh.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD">文化大革命</a>爆发，1968年1月加入<a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E8%8F%AF%E7%A4%BE">新华社</a><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5">天津</a>分社任记者[<a href="https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9#cite_note-3">3]</a>。任记者时发表多篇社会探讨性文章，如1972年的《天津驻军大量占用民房严重影响军民关系》、《天津劳动生产力调查》，80年代撰写学术性文章。在新华社工作期间，杨继绳先后担任新华社天津分社记者、高级记者，《<a href="https://zh.wikipedia.org/wiki/%E7%B6%93%E6%BF%9F%E5%8F%83%E8%80%83%E5%A0%B1">经济参考报</a>》编委兼理论部主任，新闻出版中心主任，新闻调查部主任，香港《中国市场》杂志总编。杨继绳1984年被评为全国首届优秀新闻工作者，1992年被评为<a href="https://zh.wikipedia.org/wiki/%E4%BA%AB%E5%8F%97%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%94%BF%E5%BA%9C%E7%89%B9%E6%AE%8A%E6%B4%A5%E8%B4%B4%E4%B8%93%E5%AE%B6">享受国务院政府特殊津贴专家</a>。</p>
 <span id="more"></span>
 
@@ -3365,7 +3367,7 @@ Solipsi Rai
   <entry>
     <title>学潮研究（三）《飘扬，共和国的旗帜》</title>
     <url>/posts/cb7a3a29.html</url>
-    <content><![CDATA[<p><img src="http://img.junyan.art/img/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C.png" alt="飘扬，共和国的旗帜"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="http://img.junyan.art/img/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C.png" alt="飘扬，共和国的旗帜"></p>
 <p>《<strong>飘扬，共和国的旗帜</strong>》[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-people19890729-1">1]</a>，又称《<strong>飘扬，共和国的旗帜——平息反革命暴乱纪实</strong>》[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-people19890717-2">2]</a>、《<a href="https://zh.wikipedia.org/wiki/%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8D%AB%E5%A3%AB">共和国卫士</a>》[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-3">3]</a>，是<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E6%94%BF%E6%B2%BB%E9%83%A8%E5%AE%A3%E4%BC%A0%E9%83%A8">中国人民解放军总政治部宣传部</a>1989年7月编制的纪录片[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-people19890729-1">1]</a>，1989年7月17日发行录像[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-people19890717-2">2]</a>，1989年7月28日在<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E7%BE%8E%E6%9C%AF%E9%A6%86">中国美术馆</a>举行首映式[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-people19890729-1">1]</a>。纪录片也曾在<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%A4%AE%E7%94%B5%E8%A7%86%E5%8F%B0">中央电视台</a>播放[<a href="https://zh.wikipedia.org/wiki/%E9%A3%98%E6%89%AC%EF%BC%8C%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E6%97%97%E5%B8%9C#cite_note-sichuan-4">4]</a>。</p>
 <span id="more"></span>
 
@@ -3377,14 +3379,14 @@ Solipsi Rai
         <category>学潮研究</category>
       </categories>
       <tags>
-        <tag>社会动乱</tag>
         <tag>官方资料</tag>
+        <tag>社会动乱</tag>
       </tags>
   </entry>
   <entry>
     <title>2000年华莱士采访江泽民主席</title>
     <url>/posts/6fb10626.html</url>
-    <content><![CDATA[<p>​       国家主席江泽民在北戴河接受了美国哥伦比亚广播公司“60分钟”节目主持人麦克-华莱士的专访，就中美关系、中国国内问题等回答了他的提问，阐述了中国在这些问题上的原则立场和方针政策。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>​       国家主席江泽民在北戴河接受了美国哥伦比亚广播公司“60分钟”节目主持人麦克-华莱士的专访，就中美关系、中国国内问题等回答了他的提问，阐述了中国在这些问题上的原则立场和方针政策。</p>
 <p><strong>（编者按：本次采访内容广泛，体现出中美博弈下的双方价值观，值得一阅）</strong></p>
 <span id="more"></span>
 
@@ -3554,7 +3556,7 @@ Solipsi Rai
   <entry>
     <title>学潮研究（二）《十年学潮纪实》节选</title>
     <url>/posts/70a4f1f2.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/image-20220110184859055.png" alt="image-20220110184859055" style="zoom:67%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/image-20220110184859055.png" alt="image-20220110184859055" style="zoom:67%;" />
 
 <p><strong>出版社：</strong>北京出版社</p>
 <p><strong>ISBN：</strong>7200012432</p>
@@ -3803,7 +3805,7 @@ Solipsi Rai
   <entry>
     <title>学潮研究（一）邓公的讲话</title>
     <url>/posts/508f28e8.html</url>
-    <content><![CDATA[<h2 id="在接见首都戒严部队军以上干部的讲话"><a href="#在接见首都戒严部队军以上干部的讲话" class="headerlink" title="在接见首都戒严部队军以上干部的讲话"></a>在接见首都戒严部队军以上干部的讲话</h2><p><em>(一九八九年六月九日)</em><br><strong>邓小平</strong><br>        同志们辛苦了！(热烈鼓掌)</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="在接见首都戒严部队军以上干部的讲话"><a href="#在接见首都戒严部队军以上干部的讲话" class="headerlink" title="在接见首都戒严部队军以上干部的讲话"></a>在接见首都戒严部队军以上干部的讲话</h2><p><em>(一九八九年六月九日)</em><br><strong>邓小平</strong><br>        同志们辛苦了！(热烈鼓掌)</p>
 <p>​		首先，我对在这场斗争中英勇牺牲的解放军指战员、武警指战员和公安干警的同志们表示沉痛的哀悼！对在这场斗争中负伤的几千名解放军指战员、武警指战员和公安干警的同志们表示亲切的慰问1 对所有参加这场斗争的解放军，指战员、武警指战员和公安干警的同志们致以亲切的问候！</p>
 <p>​		我提议，大家起立，为死难的烈士们默哀！ (肃立默哀)</p>
 <p>​		利用这个机会，我讲几句话。</p>
@@ -3842,14 +3844,14 @@ Solipsi Rai
       </categories>
       <tags>
         <tag>学潮</tag>
-        <tag>邓小平</tag>
         <tag>社会动乱</tag>
+        <tag>邓小平</tag>
       </tags>
   </entry>
   <entry>
     <title>迷人的新语言-许知远</title>
     <url>/posts/2cab50b3.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/f7.jpeg" alt="f7" style="zoom:50%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/f7.jpeg" alt="f7" style="zoom:50%;" />
 
 <p>“他身材粗壮，像个工人，一点也不像知识分子”。在一个阳光充足的午后，崔卫平回忆起米奇尼克的身材、困惑的表情、结结巴巴的法语，还有他们在餐桌上一起唱起的波兰工人之歌。</p>
 <p>她留着短发，面目清秀，一些时候，还流露着少女式的快活和敏感，这个人的、直观式的记忆碎片，似乎比喧嚣的思想与争辩令我印象深刻。</p>
@@ -3898,7 +3900,7 @@ Solipsi Rai
   <entry>
     <title>读书笔记（四）为民谋命者当青史留名</title>
     <url>/posts/d9b8c88a.html</url>
-    <content><![CDATA[<p>这一章主要用来记述那些人，那些为底层百姓奔走的人，那些对贫苦民众心怀大慈悲的人…..</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>这一章主要用来记述那些人，那些为底层百姓奔走的人，那些对贫苦民众心怀大慈悲的人…..</p>
 <p>主要摘自：<strong>《苏东坡传》《大逃港》</strong></p>
 <p><strong>（未完，待续）</strong></p>
 <span id="more"></span>
@@ -3927,7 +3929,7 @@ Solipsi Rai
   <entry>
     <title>时代周报2014年对杨奎松的采访</title>
     <url>/posts/c86e7a6d.html</url>
-    <content><![CDATA[<p>​		<img src="http://img.junyan.art/img/3894636617.jpg" alt="img"></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>​		<img src="http://img.junyan.art/img/3894636617.jpg" alt="img"></p>
 <p>​       杨奎松今年59岁，很多读者见过他之后都悄悄议论：“太年轻了，看上去像40岁。”对于他的同行们来说，羡慕他长相年轻之余，也羡慕他60岁不到即出了一整套的题材宏大的著作集——《革命》，将自己过去的研究做一个总结。</p>
 <p>　　这套刚出版的《革命》著作集包括杨奎松的四本旧作，从不同角度回顾建国前的革命史：《“中间地带”的革命——从国际大背景看中共成功之道》、《毛泽东与莫斯科的恩恩怨怨》、《国民党的“联共”与“反共”》、《西安事变新探——张学良与中共关系之研究》。此前这些书出版时均引起过学界和普通读者里不小的震荡。历史学界素有“南高北杨”的说法，在高华早逝之后，杨奎松出了这样一部著作集，也让学界对他寄予更多期望。</p>
 <span id="more"></span>
@@ -3983,7 +3985,7 @@ Solipsi Rai
   <entry>
     <title>其他人对李敖的看法</title>
     <url>/posts/54b27cff.html</url>
-    <content><![CDATA[<img src="http://img.junyan.art/img/dadada.png" alt="dadada" style="zoom: 67%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><img src="http://img.junyan.art/img/dadada.png" alt="dadada" style="zoom: 67%;" />
 
          
 
@@ -4005,7 +4007,7 @@ Solipsi Rai
   <entry>
     <title>2015年纽约时报对许知远的采访</title>
     <url>/posts/591baf21.html</url>
-    <content><![CDATA[<h1 id="许知远：把创业热情转变成社会重建"><a href="#许知远：把创业热情转变成社会重建" class="headerlink" title="许知远：把创业热情转变成社会重建"></a>许知远：把创业热情转变成社会重建</h1><p>萧轶2015年12月9日</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="许知远：把创业热情转变成社会重建"><a href="#许知远：把创业热情转变成社会重建" class="headerlink" title="许知远：把创业热情转变成社会重建"></a>许知远：把创业热情转变成社会重建</h1><p>萧轶2015年12月9日</p>
 <img src="http://img.junyan.art/img/cn-t09xuzhiyuan-span-master1050.jpg" alt="cn-t09xuzhiyuan-span-master1050" style="zoom:67%;" />
 
 
@@ -4085,7 +4087,7 @@ Solipsi Rai
   <entry>
     <title>原生家庭的创伤（转载）</title>
     <url>/posts/f481e33.html</url>
-    <content><![CDATA[<p>国内某位心理学者曾说过一句话，“幸福的家庭，都有一个共同点，家里没有控制欲很强的人。而不幸的家庭，都有一个控制欲很强的人”。<br>类似的观点，国外也有。伦敦大学学院的科学家，发表在《积极心理学期刊》的一项研究发现：家长控制欲过强，对孩子幸福感造成的负面影响，竟然与痛失至亲，对人们产生的负面影响程度相近。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>国内某位心理学者曾说过一句话，“幸福的家庭，都有一个共同点，家里没有控制欲很强的人。而不幸的家庭，都有一个控制欲很强的人”。<br>类似的观点，国外也有。伦敦大学学院的科学家，发表在《积极心理学期刊》的一项研究发现：家长控制欲过强，对孩子幸福感造成的负面影响，竟然与痛失至亲，对人们产生的负面影响程度相近。</p>
 <span id="more"></span>
 
 <p>控制欲过强，本质上是父母对孩子成长不确定性产生忧虑而采取的一种手段，说白了就是对自己教育孩子的不自信。而这种方式，在国内很容易一代代传承下来。<br>影响有以下五点：<br>一是自卑。所有的一切父母都安排好了，孩子会对自己存在的价值产生怀疑，导致深深的自卑。同时，自己长期按照父母的想法做人做事，办什么事情都唯唯诺诺，缺乏主见。<br>二是懦弱。长期沉浸在淫威之下，孩子什么都不敢去做，哪怕自己的正当权益都不敢维护，就会成为总是吃亏的老实人。<br>三是敏感固执。因为孩子总是屈服于父母的控制之下，内心时刻都带着枷锁，对于外界的一点点压力都非常敏感，无法承受。而且，这种敏感会让孩子特别要面子，一旦说什么做什么，哪怕大家都说是错的，也会碍于面子不肯妥协。<br>四是精神内耗严重。父母控制欲强，孩子什么都不敢说不敢做，很多想法只能在心里去交锋，严重损耗精神。<br>五是没有担当。父母控制欲强，就会什么都包办，就会替孩子承担了很多责任，导致孩子缺乏责任感，没有担当意识。<br>父母控制欲强，孩子的心路历程一般是这样的：初始顺从，中途反抗，最后妥协或毁灭。不过这种情形并非无解。首先尽快争取经济独立，经济独立思想也会逐渐独立。其次要找到自己的精神归宿，找到自己的心灵家园，多和自己对话。最后，要学会自我教育，多读书，多学习，多看或者多听一些有价值密度的视频和音频，直接或者间接和优秀的人对话，也会慢慢形成独立意识。<br>著名教育家苏霍姆林斯基说：“教育不能总是牵着孩子的手走，而还是要让他独立行走，使他对自己负责，形成自己的生活态度。”我走出来了，也希望有同样不堪其扰的朋友走出来。</p>
@@ -4102,7 +4104,7 @@ Solipsi Rai
   <entry>
     <title>全球化时代主权国家的特区论述：香港</title>
     <url>/posts/162f15a1.html</url>
-    <content><![CDATA[<h3 id="全球化时代主权国家的特区论述：香港"><a href="#全球化时代主权国家的特区论述：香港" class="headerlink" title="全球化时代主权国家的特区论述：香港"></a>全球化时代主权国家的特区论述：香港</h3><p><strong>陈冠中   摘自《我这一代香港人》</strong></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="全球化时代主权国家的特区论述：香港"><a href="#全球化时代主权国家的特区论述：香港" class="headerlink" title="全球化时代主权国家的特区论述：香港"></a>全球化时代主权国家的特区论述：香港</h3><p><strong>陈冠中   摘自《我这一代香港人》</strong></p>
 <img src="http://img.junyan.art/img/hk.jpg" alt="hk" style="zoom: 33%;" />
 
 <p>【内容提要】</p>
@@ -4297,7 +4299,7 @@ Solipsi Rai
   <entry>
     <title>读书笔记（三）陈冠中</title>
     <url>/posts/d283b01e.html</url>
-    <content><![CDATA[<h1 id="关于陈冠中"><a href="#关于陈冠中" class="headerlink" title="关于陈冠中"></a>关于陈冠中</h1><img src="http://img.junyan.art/img/fsfs.jpg" alt="fsfs" style="zoom: 80%;" />
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于陈冠中"><a href="#关于陈冠中" class="headerlink" title="关于陈冠中"></a>关于陈冠中</h1><img src="http://img.junyan.art/img/fsfs.jpg" alt="fsfs" style="zoom: 80%;" />
 
 <h2 id="生平"><a href="#生平" class="headerlink" title="生平"></a>生平</h2><p><strong>陈冠中</strong>，香港作家。生于上海，长于香港，曾在台湾居住，现居北京。先后就读于香港大学与美国波士顿大学。绿色力量、绿田园有机农场、香港电影导演会等发起人，现任绿色和平国际董事。1976年创办生活潮流月刊《号外》。曾在90年代中期任《读书》海外出版人。著有小说“香港三部曲”（《 太阳膏的梦》、《什么都没有发生》、《金都茶餐厅》），评论集《城市九章》等。</p>
 <p>陈冠中，一个可以同时用中国近60年来主流思想和西方民主思想进行非主流思考的作家。</p>
@@ -4328,7 +4330,7 @@ Solipsi Rai
   <entry>
     <title>读书笔记（二）《1949年后的书生与政治》</title>
     <url>/posts/139c1e00.html</url>
-    <content><![CDATA[<h1 id="《忍不住的“关怀”》"><a href="#《忍不住的“关怀”》" class="headerlink" title="《忍不住的“关怀”》"></a>《忍不住的“关怀”》</h1><p>作者: <a href="https://book.douban.com/author/332694/">杨奎松</a><br>出版社: 广西师范大学出版社<br>出品方: <a href="https://book.douban.com/series/39057?brand=1">理想国</a><br>副标题: 1949年前后的书生与政治<br>出版年: 2013-5-1</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="《忍不住的“关怀”》"><a href="#《忍不住的“关怀”》" class="headerlink" title="《忍不住的“关怀”》"></a>《忍不住的“关怀”》</h1><p>作者: <a href="https://book.douban.com/author/332694/">杨奎松</a><br>出版社: 广西师范大学出版社<br>出品方: <a href="https://book.douban.com/series/39057?brand=1">理想国</a><br>副标题: 1949年前后的书生与政治<br>出版年: 2013-5-1</p>
 <h1 id="作者"><a href="#作者" class="headerlink" title="作者"></a>作者</h1><p>杨奎松，历史学家，主要从事中外关系史、中国近现代史等方面的研究。曾先后任中国社会科学院近代史研究所研究员、北京大学历史学系教授，现为华东师范大学终身教授、紫江特聘教授。</p>
 <h1 id="内容简介："><a href="#内容简介：" class="headerlink" title="内容简介："></a>内容简介：</h1><p>对于20世纪中国的知识分子来说，一个最大的历史悲剧就是，他们是最早投身于救国救民的一群人，自认为最了解政治大势，最后却在政治场中最不知所措、动辄得咎、受人轻视。</p>
 <p>杨奎松教授不满足于像过去一样笼统地发出质问：为什么中国大陆的知识分子当年竟会停止思想，集体转向？因为随着越来越多的私人记录以及各种报刊、档案文献披露出来，他发现，事情并非那样简单。</p>
@@ -4407,7 +4409,7 @@ Solipsi Rai
   <entry>
     <title>关于读书笔记</title>
     <url>/posts/26270f6f.html</url>
-    <content><![CDATA[<p><strong>我的读书笔记。</strong></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><strong>我的读书笔记。</strong></p>
 ]]></content>
       <categories>
         <category>读书笔记</category>
@@ -4416,7 +4418,7 @@ Solipsi Rai
   <entry>
     <title>读书笔记（一）许知远</title>
     <url>/posts/65659ad0.html</url>
-    <content><![CDATA[<h1 id="关于许知远"><a href="#关于许知远" class="headerlink" title="关于许知远"></a>关于许知远</h1><h2 id="生平"><a href="#生平" class="headerlink" title="生平"></a>生平</h2><p><strong>许知远</strong>（1976年－），<a href="https://zh.wikipedia.org/wiki/%E6%B1%9F%E8%8B%8F">江苏</a><a href="https://zh.wikipedia.org/wiki/%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%B8%82">连云港</a><a href="https://zh.wikipedia.org/wiki/%E7%81%8C%E5%8D%97%E5%8E%BF">灌南县</a>人[<a href="https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%9F%A5%E8%BF%9C#cite_note-1">1]</a>，2000年毕业于<a href="https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6">北京大学</a><a href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%94%B5%E5%AD%90">微电子</a>专业，曾任《<a href="https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5">经济观察报</a>》<a href="https://zh.wikipedia.org/wiki/%E4%B8%BB%E7%AD%86">主笔</a>。现为《生活》杂志出版人、《<a href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A">亚洲周刊</a>》与英国《<a href="https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5_(%E8%8B%B1%E5%9B%BD)">金融时报</a>》中文网<a href="https://zh.wikipedia.org/wiki/%E5%B0%88%E6%AC%84%E4%BD%9C%E5%AE%B6">专栏作家</a>。他是北京<a href="https://zh.wikipedia.org/wiki/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97">独立人文书店</a>“单向街书店”（后更名为单向空间）的创办人之一和<a href="https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%AE%A2">博客</a>站点“思维的乐趣”的主要博主。从2009年8月起到2010年8月，在英国<a href="https://zh.wikipedia.org/wiki/%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6">剑桥大学</a>交流学习一年。[<a href="https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%9F%A5%E8%BF%9C#cite_note-2">2]</a>[<a href="https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%9F%A5%E8%BF%9C#cite_note-3">3]</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="关于许知远"><a href="#关于许知远" class="headerlink" title="关于许知远"></a>关于许知远</h1><h2 id="生平"><a href="#生平" class="headerlink" title="生平"></a>生平</h2><p><strong>许知远</strong>（1976年－），<a href="https://zh.wikipedia.org/wiki/%E6%B1%9F%E8%8B%8F">江苏</a><a href="https://zh.wikipedia.org/wiki/%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%B8%82">连云港</a><a href="https://zh.wikipedia.org/wiki/%E7%81%8C%E5%8D%97%E5%8E%BF">灌南县</a>人[<a href="https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%9F%A5%E8%BF%9C#cite_note-1">1]</a>，2000年毕业于<a href="https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6">北京大学</a><a href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E7%94%B5%E5%AD%90">微电子</a>专业，曾任《<a href="https://zh.wikipedia.org/wiki/%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F%E6%8A%A5">经济观察报</a>》<a href="https://zh.wikipedia.org/wiki/%E4%B8%BB%E7%AD%86">主笔</a>。现为《生活》杂志出版人、《<a href="https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A">亚洲周刊</a>》与英国《<a href="https://zh.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5_(%E8%8B%B1%E5%9B%BD)">金融时报</a>》中文网<a href="https://zh.wikipedia.org/wiki/%E5%B0%88%E6%AC%84%E4%BD%9C%E5%AE%B6">专栏作家</a>。他是北京<a href="https://zh.wikipedia.org/wiki/%E7%8D%A8%E7%AB%8B%E6%9B%B8%E5%BA%97">独立人文书店</a>“单向街书店”（后更名为单向空间）的创办人之一和<a href="https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%AE%A2">博客</a>站点“思维的乐趣”的主要博主。从2009年8月起到2010年8月，在英国<a href="https://zh.wikipedia.org/wiki/%E5%89%91%E6%A1%A5%E5%A4%A7%E5%AD%A6">剑桥大学</a>交流学习一年。[<a href="https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%9F%A5%E8%BF%9C#cite_note-2">2]</a>[<a href="https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%9F%A5%E8%BF%9C#cite_note-3">3]</a></p>
 <span id="more"></span>
 
 <h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><ul>
@@ -4487,7 +4489,7 @@ Solipsi Rai
   <entry>
     <title>国内舆论的边界</title>
     <url>/posts/c0d09f78.html</url>
-    <content><![CDATA[<h1 id="暂时无空，未写。：）"><a href="#暂时无空，未写。：）" class="headerlink" title="暂时无空，未写。：）"></a>暂时无空，未写。：）</h1>]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="暂时无空，未写。：）"><a href="#暂时无空，未写。：）" class="headerlink" title="暂时无空，未写。：）"></a>暂时无空，未写。：）</h1>]]></content>
       <categories>
         <category>中国政治体制思考笔记</category>
       </categories>
@@ -4500,7 +4502,7 @@ Solipsi Rai
     <title>Current ruling characteristics of the Communist Party of China</title>
     <url>/posts/2dd76ea4.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="a39a28af0f4a10e76bcce3855a3031bc64f1cbc2a3514d50154e06d36bfb44e4">c146cc9d1cbb570c3f32489bdf827fad0f26db7418471a6b67518daa846123e2e6aa40008a2585c60d000ff170d599ab52dc8869dd7954a80ef43750609ba8431f76453354c5bf1f40bafad1add8873d66c1ffed5007d90267b76c253a0ad80c8af61bd046633718bc1c80e7035d70d1ed1c70ae3035554d70fd733a70524e1236d06f03fb001a531296ecb9664166bf08ebf6036ee98c09f52667eafde53bf2434845134c34fa7833c6ab7166e7420b9310c7f55d308b93f77987d13380b3944455b6fb934f52cfc882220f5c2d7d088d4eca9e1c10f22f130b495582457f3553ea28f3a4b64d85706182d288ffdda257f60ab8e4709fe53ad7df2894d03d65bfc8f7e614dc08e5a4d82bc3cc8f09f2ceb94976ff4984ea07862286a2498f3df192c05ed116de25452038eacbc07e77563b750568aa0055271d6d35a759e1389a5524a3de6738dc3e5e6b827549102e61211ce770a453dbf7d358d9b24b9c1f1acbdb10513961119a58c7e4298dfec9bb7a2c7bf42934fa11267c9fa6375e2d697a9ce1b685dceaa3d56ca25011e24166b81a198e213fc6218a12564d97019431a9ea2a821a0e345ee27fef59ce911d39b1ba667a5bf55e399d66e13afe6dc86c46c50ce7de0221fb0bc53e9f77de1d553bbe18c51606b0cda72029f3cf9006ecffa12de50fc34cdced2e7f3281b1ce70da657b9f209657bd1783680349a1c282f7bc0e1bad3f16c1801b402f208019555cd18760abb9dc016e38c02de18d4fb9bedd4a75936ff5f5a5ccd317c0918f637174745a54df8b366486acc655243cd353f9d074944579df9b0c743fb648f8c5fcdd21733330975bc6c32b0fa20228505b1c08cb78c8ec1c218df4605a22f69698d8b42ace4427a95ec0d3dd84f3530ebb2e2e9590f6ab7756ba4ea201b1c4ee9d5bc3149538b6c6f5f8dc4549e9253d293f92df48931cf09fa14f81ba9a2d79d9142a42dab78f0e88f66e06c2d600fd933e3e4ff3dc1e787a8d46630a877b587191753950fc6604405e882500bfdb862ea8487301a9d40ee384ded1e19fff</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="095896191665b18299d4740e47a57a2e0eb16a1de70c44ba181751eddb552561">c146cc9d1cbb570c3f32489bdf827fadf377bad6fcf3d809e7b6dd8869b7c29c1db94b02dc8f804e6dc1ee72f41811cc459a126c911770bab69208bed6d4b925f9627e687bf8365f3e1e13779982526ea3dc580763fba3de40953ab57641eeb5948a3477f3e352823a07820f70c704460b51265bd56b5ca48fbdc21e42cce25df9846ecfdb004169b46e21d0835f5e53aad88062ef3c044842b5eddd215e5b0de575d0e309b22e6497fdae19c60477452034f104d9bc7b5a3dbf3ad8811ded36997d093df141947431904d36404866ed44a3dc125ca45b105cac92a4d1a13caeba8c642eb9bffbe27766c32d08a7c901b7b572d0c4cc81d05acd65e58fa02f5fe4182215c448a43dfeda69c1a208c7b81e15a859071dc46fdd009ba5bf06901c41f705b1eb6c6ab16670a8ea4d8545f4c8473ec3951836b923bd1c0d50b65ae24bc0bacd30a5fdceecfe5e7284ba3cb3eb3b4b742ab211caaa76ca6d9b4213d31854a3491dddd8980c5b8d99708251bf688aa9e4dee24e97f7d30d9a6d42202693a8898460a55b812b874593dd2517fcf10f5890175d1ae2a564831bc3ac4d04530d1a5521622986d63539d714e299e4cc62dfe74205b3bb69d293b942f4c84225bc3d9485762ce9e8992201381eb35e888bbdbf1a2c8e8cac9fd3af6f48810826a2d32239f581c740f2116c98fb0ff7d2a867bab05e459eafe389a30a5499971bf1ef520d757d64122db3f40b5ab7a24731992c3e1ad4e901080851a10c70ec1ffde446658d9a9f02c1b348b3f0dc110eb69293f7a323c65993791626af2e835d2039e337b14222064cd82a3ef8885efdd10cb5ee933c9e0818833454e0b0e0eb8a275e61f76077420056533f5b937b761cfe7c2cc6499b31c0acbabedce359c084842597c5aaf1ce875fd38bd764dfa0590c2ef72ca14b05b285e0b4ceaed00ac8fe6b3dec9d290cb02a0b6f8a5f51b585a8bb9f8404eb2385f63f00a2aaaea9be4cafe5e0258f2c7c51c25793da12a27a8fa8cd8ab39066f47351ed38bf579904885f9bf9e9a7dcc13bb668b9c32d3584a13d03f42fae593b9f7e7a5aa9d78ab1ed7d5fdd3c9782d61fafbe07cf96a6f75a760edcf2b6f51614dad1353c9c3e04e26c8b542a981084ccfcaf28b99d4e55ce755b719e4c0beb9b6a8bb1e5107ec9901eafd7ac2aefb46a5a2c06c7b6fd8adc348c69d06f8610bd1edff24eefffec97b46bef488b3784b66be2f36efaa0625d7766014071f55ea164ab8acf6307b401e5c9bb1f692f44e7b1f3e82d0197610400536c0e531aa95d3ce391285d5483992572bd5e8e0c9513e62facbcc3ae8377c0d860587b815268a02afa4ae0911c735df1e5591795c0255b6c26830af966c76a0f85eae931a80eaf9b0a45d2a579f1ae3bc026c16b83bf7d612f16d4268fbe258e4559695f48442833dd76c6</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-default">
       <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
@@ -4521,7 +4523,7 @@ Solipsi Rai
   <entry>
     <title>对现状的思考</title>
     <url>/posts/f0c66828.html</url>
-    <content><![CDATA[<h2 id="对现状的一些质疑"><a href="#对现状的一些质疑" class="headerlink" title="对现状的一些质疑"></a>对现状的一些质疑</h2><figure class="highlight lasso"><table><tr><td class="code"><pre><span class="line">“士大夫开始匆匆为它贴上了“同治中兴”的标签，相信这个时代堪与周宣王、汉光武帝与唐肃宗的时代相比，它们都战胜或至少终止了衰落的趋势。”</span><br><span class="line"><span class="params">...</span><span class="params">...</span></span><br><span class="line">“改革开放三十年的伟大成就”、“中华文明的伟大复兴”、“千年盛世”，或是西方人创造的“北京共识”、“中国模式”，这些言辞是否像是另一次“同治中兴”？”</span><br><span class="line">——摘录来自《极权的诱惑》许知远 <span class="number">2014</span>年<span class="number">5</span>月出版</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="对现状的一些质疑"><a href="#对现状的一些质疑" class="headerlink" title="对现状的一些质疑"></a>对现状的一些质疑</h2><figure class="highlight lasso"><table><tr><td class="code"><pre><span class="line">“士大夫开始匆匆为它贴上了“同治中兴”的标签，相信这个时代堪与周宣王、汉光武帝与唐肃宗的时代相比，它们都战胜或至少终止了衰落的趋势。”</span><br><span class="line"><span class="params">...</span><span class="params">...</span></span><br><span class="line">“改革开放三十年的伟大成就”、“中华文明的伟大复兴”、“千年盛世”，或是西方人创造的“北京共识”、“中国模式”，这些言辞是否像是另一次“同治中兴”？”</span><br><span class="line">——摘录来自《极权的诱惑》许知远 <span class="number">2014</span>年<span class="number">5</span>月出版</span><br></pre></td></tr></table></figure>
 
 <p><strong>1，大众舆论</strong></p>
 <p>这是《极权诱惑》的开篇，许知远的这个想法与我不谋而和。当前的经济繁荣是否掩盖了许多体制的弊病？</p>
