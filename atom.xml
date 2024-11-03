@@ -6,69 +6,69 @@
     <updated>2024-10-17T18:05:35.000Z</updated>
     <category term="知识分子" />
     <category term="杨继绳" />
+    <category term="转载" />
+    <category term="许知远" />
     <category term="江泽民主席" />
     <category term="采访" />
     <category term="学潮" />
     <category term="encryption_test" />
-    <category term="转载" />
-    <category term="许知远" />
-    <category term="UFO" />
-    <category term="超自然现象" />
     <category term="FT中文网" />
     <category term="张力奋" />
     <category term="自由派" />
+    <category term="UFO" />
     <category term="蓝皮书计划" />
+    <category term="超自然现象" />
+    <category term="站点测试" />
     <category term="星门计划" />
     <category term="异能" />
-    <category term="银河联盟" />
     <category term="蜥蜴人" />
+    <category term="南开" />
+    <category term="银河联盟" />
+    <category term="文革往事" />
     <category term="刘瑜" />
     <category term="盛世危言" />
-    <category term="南开" />
-    <category term="站点测试" />
-    <category term="苏轼" />
-    <category term="“六二”逃港事件" />
     <category term="东欧" />
     <category term="金雁" />
-    <category term="文革往事" />
     <category term="权能主义" />
     <category term="威权主义" />
     <category term="中国政治体制" />
+    <category term="苏轼" />
+    <category term="“六二”逃港事件" />
     <category term="傅莹" />
     <category term="人大代表制度" />
     <category term="香港问题" />
     <category term="当代人身份认同" />
     <category term="公知" />
+    <category term="华夷之辩" />
     <category term="李敖" />
     <category term="人性的复杂" />
-    <category term="华夷之辩" />
-    <category term="邓小平" />
-    <category term="社会动乱" />
     <category term="生活" />
+    <category term="卢克文" />
     <category term="舆论" />
     <category term="言论自由" />
     <category term="官方资料" />
-    <category term="卢克文" />
+    <category term="社会动乱" />
+    <category term="邓小平" />
     <category term="船夫" />
     <category term="暴乱" />
-    <category term="威权" />
     <category term="赵紫阳" />
+    <category term="威权" />
+    <category term="历史研究和官方论述的差异" />
     <category term="大众舆论" />
     <category term="现状思考" />
-    <category term="历史研究和官方论述的差异" />
     <category term="社会思潮" />
     <category term="中国社科院" />
     <category term="玄学" />
     <category term="轮回" />
     <category term="公民社会" />
     <category term="周濂" />
+    <category term="孙储琳" />
+    <category term="火星男孩" />
     <category term="李嗣涔" />
     <category term="挠场" />
-    <category term="孙储琳" />
+    <category term="月球起源" />
     <category term="许知远的个人博客" />
     <category term="疫情" />
-    <category term="火星男孩" />
-    <category term="月球起源" />
     <category term="政治压迫下的个体" />
     <entry>
         <id>https://ljc-gmail.github.io/posts/75951906.html</id>
@@ -179,6 +179,35 @@
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;超链接测试&#34;&gt;&lt;a href=&#34;#超链接测试&#34; class=&#34;headerlink&#34; title=&#34;超链接测试&#34;&gt;&lt;/a&gt;超链接测试&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://we1005.junyan.art/posts/cfa2b402.html&#34;&gt;当代中国的三大社会思潮 | 他的国 (junyan.art)&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;代码测试&#34;&gt;&lt;a href=&#34;#代码测试&#34; class=&#34;headerlink&#34; title=&#34;代码测试&#34;&gt;&lt;/a&gt;代码测试&lt;/h2&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;double&lt;/span&gt;&amp;amp; &lt;span class=&#34;title&#34;&gt;lala&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;type&#34;&gt;double&lt;/span&gt; arg[])&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;//返回一个引用类型&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;double&lt;/span&gt;&amp;amp; a = arg[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; a;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;double&lt;/span&gt; d_array[&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;] = &amp;#123; &lt;span class=&#34;number&#34;&gt;0.00&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;1.23&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;3.36&lt;/span&gt; &amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;double&lt;/span&gt;&amp;amp; qq = &lt;span class=&#34;built_in&#34;&gt;lala&lt;/span&gt;(d_array);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qq = &lt;span class=&#34;number&#34;&gt;5.42&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    cout &amp;lt;&amp;lt; d_array[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] &amp;lt;&amp;lt; endl;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;主题自带的功能测试&#34;&gt;&lt;a href=&#34;#主题自带的功能测试&#34; class=&#34;headerlink&#34; title=&#34;主题自带的功能测试&#34;&gt;&lt;/a&gt;主题自带的功能测试&lt;/h2&gt;&lt;blockquote class=&#34;blockquote-center&#34;&gt;
+&lt;p&gt;文本居中引用效果&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;Lorem &lt;mark class=&#34;label &#34;&gt;ipsum&lt;/mark&gt; &lt;mark class=&#34;label primary&#34;&gt;dolor sit&lt;/mark&gt; amet, consectetur &lt;mark class=&#34;label success&#34;&gt;adipiscing elit,&lt;/mark&gt; sed &lt;mark class=&#34;label info&#34;&gt;do eiusmod&lt;/mark&gt; tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim &lt;em&gt;&lt;mark class=&#34;label warning&#34;&gt;ad&lt;/mark&gt;&lt;/em&gt; minim veniam, quis &lt;strong&gt;&lt;mark class=&#34;label danger&#34;&gt;nostrud&lt;/mark&gt;&lt;/strong&gt; exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate &lt;del&gt;&lt;mark class=&#34;label default&#34;&gt;velit&lt;/mark&gt;&lt;/del&gt; &lt;mark&gt;esse&lt;/mark&gt; cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;div class=&#34;note default&#34;&gt;&lt;p&gt;default html&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;Text&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34; title=&#34;Title&#34;&gt;Text &amp; Title&lt;/a&gt;
+
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;Text &amp; Icon (buggy)&lt;/a&gt;
+&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&lt;/i&gt;Text &amp; Icon (fixed width)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;text-center&#34;&gt;&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-header&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-edge&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-times&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-circle-o&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-italic&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-scribd&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-google&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-chrome&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-opera&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-diamond fa-rotate-270&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+
+
+
+
 
 &lt;h2 id=&#34;自定义html代码测试&#34;&gt;&lt;a href=&#34;#自定义html代码测试&#34; class=&#34;headerlink&#34; title=&#34;自定义html代码测试&#34;&gt;&lt;/a&gt;自定义html代码测试&lt;/h2&gt;&lt;h3 id=&#34;单曲&#34;&gt;&lt;a href=&#34;#单曲&#34; class=&#34;headerlink&#34; title=&#34;单曲&#34;&gt;&lt;/a&gt;单曲&lt;/h3&gt;&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=&#34;410&#34; height=&#34;110&#34; src=&#34;//music.163.com/outchain/player?type=2&amp;id=40729148&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
 

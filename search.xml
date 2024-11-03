@@ -23,6 +23,35 @@
 <h2 id="超链接测试"><a href="#超链接测试" class="headerlink" title="超链接测试"></a>超链接测试</h2><p><a href="https://we1005.junyan.art/posts/cfa2b402.html">当代中国的三大社会思潮 | 他的国 (junyan.art)</a></p>
 <h2 id="代码测试"><a href="#代码测试" class="headerlink" title="代码测试"></a>代码测试</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="type">double</span>&amp; <span class="title">lala</span><span class="params">(<span class="type">double</span> arg[])</span><span class="comment">//返回一个引用类型</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">double</span>&amp; a = arg[<span class="number">1</span>];</span><br><span class="line">    <span class="keyword">return</span> a;</span><br><span class="line">&#125;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"></span><br><span class="line">    <span class="type">double</span> d_array[<span class="number">3</span>] = &#123; <span class="number">0.00</span>,<span class="number">1.23</span>,<span class="number">3.36</span> &#125;;</span><br><span class="line">    <span class="type">double</span>&amp; qq = <span class="built_in">lala</span>(d_array);</span><br><span class="line">    qq = <span class="number">5.42</span>;</span><br><span class="line">    cout &lt;&lt; d_array[<span class="number">1</span>] &lt;&lt; endl;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
+<h2 id="主题自带的功能测试"><a href="#主题自带的功能测试" class="headerlink" title="主题自带的功能测试"></a>主题自带的功能测试</h2><blockquote class="blockquote-center">
+<p>文本居中引用效果</p>
+
+</blockquote>
+
+<p>Lorem <mark class="label ">ipsum</mark> <mark class="label primary">dolor sit</mark> amet, consectetur <mark class="label success">adipiscing elit,</mark> sed <mark class="label info">do eiusmod</mark> tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>Ut enim <em><mark class="label warning">ad</mark></em> minim veniam, quis <strong><mark class="label danger">nostrud</mark></strong> exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>Duis aute irure dolor in reprehenderit in voluptate <del><mark class="label default">velit</mark></del> <mark>esse</mark> cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<div class="note default"><p>default html</p></div>
+
+
+
+<a class="btn" href="#">Text</a><a class="btn" href="#" title="Title">Text & Title</a>
+
+<div><a class="btn" href="#"><i class="fa fa-home fa-2x"></i></a><a class="btn" href="#"><i class="fa fa-home fa-2x"></i></a><a class="btn" href="#"><i class="fa fa-home fa-2x"></i></a></div>
+<div><a class="btn" href="#"><i class="fa fa-home fa-lg"></i></a><a class="btn" href="#"><i class="fa fa-home fa-lg"></i></a><a class="btn" href="#"><i class="fa fa-home fa-lg"></i></a></div>
+<div><a class="btn" href="#"><i class="fa fa-home"></i></a><a class="btn" href="#"><i class="fa fa-home"></i></a><a class="btn" href="#"><i class="fa fa-home"></i></a></div>
+
+<p><a class="btn" href="#"><i class="fa fa-home"></i>Text & Icon (buggy)</a>
+<a class="btn" href="#"><i class="fa fa-home fa-fw"></i>Text & Icon (fixed width)</a></p>
+
+<div class="text-center"><div><a class="btn" href="#"><i class="fa fa-header"></i></a><a class="btn" href="#"><i class="fa fa-edge"></i></a><a class="btn" href="#"><i class="fa fa-times"></i></a><a class="btn" href="#"><i class="fa fa-circle-o"></i></a></div>
+<div><a class="btn" href="#"><i class="fa fa-italic"></i></a><a class="btn" href="#"><i class="fa fa-scribd"></i></a></div>
+<div><a class="btn" href="#"><i class="fa fa-google"></i></a><a class="btn" href="#"><i class="fa fa-chrome"></i></a><a class="btn" href="#"><i class="fa fa-opera"></i></a><a class="btn" href="#"><i class="fa fa-diamond fa-rotate-270"></i></a></div></div>
+
+
+
+
+
 <h2 id="自定义html代码测试"><a href="#自定义html代码测试" class="headerlink" title="自定义html代码测试"></a>自定义html代码测试</h2><h3 id="单曲"><a href="#单曲" class="headerlink" title="单曲"></a>单曲</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="410" height="110" src="//music.163.com/outchain/player?type=2&id=40729148&auto=0&height=66"></iframe>
 
 <h3 id="歌单"><a href="#歌单" class="headerlink" title="歌单"></a>歌单</h3><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=12748367586&auto=0&height=430"></iframe>]]></content>
@@ -3069,7 +3098,7 @@ Solipsi Rai
 <p>&emsp;&emsp;专栏作家，有的笔力恒久，有的很快灯干油尽。我尚不知道自己命归哪类。所幸活在中国激变时代，码字者缈小，世局却崇大。</p>
 <p>&emsp;&emsp;当下全球传媒业黯淡，新闻人低首愁眉，扬雨果令人想起崇高、永恒与尊严。他是跨国界的。在专栏的开篇，我纪念这位前辈，立一个或许永远无法超越的门槛，幻想中国的思想花园，呼吸她应有的芬芳与自由。</p>
 <p>&emsp;&emsp;写于美国旧金山半月湾度假中</p>
-<p>（注：本文仅代表作者本人观点。作者简介：张力奋，FT中文网创刋总编辑，现任荣誉总编辑、专栏作家。电子邮箱：<a href="mailto:&#108;&#105;&#102;&#x65;&#x6e;&#46;&#x7a;&#x68;&#97;&#110;&#x67;&#x40;&#x66;&#116;&#x63;&#x68;&#105;&#110;&#x65;&#x73;&#101;&#x2e;&#99;&#x6f;&#x6d;">&#108;&#105;&#102;&#x65;&#x6e;&#46;&#x7a;&#x68;&#97;&#110;&#x67;&#x40;&#x66;&#116;&#x63;&#x68;&#105;&#110;&#x65;&#x73;&#101;&#x2e;&#99;&#x6f;&#x6d;</a>）</p>
+<p>（注：本文仅代表作者本人观点。作者简介：张力奋，FT中文网创刋总编辑，现任荣誉总编辑、专栏作家。电子邮箱：<a href="mailto:&#108;&#105;&#102;&#x65;&#110;&#46;&#122;&#104;&#97;&#x6e;&#x67;&#x40;&#102;&#x74;&#x63;&#104;&#105;&#x6e;&#x65;&#115;&#x65;&#x2e;&#99;&#x6f;&#x6d;">&#108;&#105;&#102;&#x65;&#110;&#46;&#122;&#104;&#97;&#x6e;&#x67;&#x40;&#102;&#x74;&#x63;&#104;&#105;&#x6e;&#x65;&#115;&#x65;&#x2e;&#99;&#x6f;&#x6d;</a>）</p>
 <h2 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h2><h3 id="摘录一：张力奋对许知远的看法"><a href="#摘录一：张力奋对许知远的看法" class="headerlink" title="摘录一：张力奋对许知远的看法"></a>摘录一：张力奋对许知远的看法</h3><blockquote>
 <p>迄今，最飘逸的许知远写得时间最长。他长发已写成灰白，可惜稿酬并不见涨太多，这是我要道歉的。他的“中国纪事”，若干年后再读，会是珍贵的社会学文本；</p>
 </blockquote>
@@ -3379,8 +3408,8 @@ Solipsi Rai
         <category>学潮研究</category>
       </categories>
       <tags>
-        <tag>社会动乱</tag>
         <tag>官方资料</tag>
+        <tag>社会动乱</tag>
       </tags>
   </entry>
   <entry>
@@ -3844,8 +3873,8 @@ Solipsi Rai
       </categories>
       <tags>
         <tag>学潮</tag>
-        <tag>邓小平</tag>
         <tag>社会动乱</tag>
+        <tag>邓小平</tag>
       </tags>
   </entry>
   <entry>
