@@ -223,7 +223,7 @@
 							<p>收集有趣html作品</p>
 						</div>
 						<div class="projectItemRight">
-							<img src="./static/img/i4.png" alt="">
+							<img src="./static/img/music1.png" alt="">
 						</div>
 
 					</a><a class="projectItem b" target="_blank" href="https://baidu.com">
@@ -252,7 +252,7 @@
 		</div>
 	</div>
 	<footer>
-		ljcman © 2024 |
+		ljcman © <span class="year"></span> <!-- 这里预留了一个span用于动态插入年份 --> |
 		<a href="https://ljc-gmail.github.io/">
 			“欲买桂花同载酒，终不似，少年游。” </a>
 	</footer>
@@ -263,6 +263,18 @@
 
 	</div>
 <meting-js server="netease" type="playlist" id="12748367586" list-folded="true" fixed="true"></meting-js>
+	<script>
+	        document.addEventListener("DOMContentLoaded", function() {
+	            var currentYear = new Date().getFullYear();
+	            var footer = document.querySelector("footer");
+	            if (footer) {
+	                var yearSpan = footer.querySelector(".year");
+	                if (yearSpan) {
+	                    yearSpan.textContent = currentYear;
+	                } 
+	            }
+	        });
+	    </script>
 </body>
 <script src="./static/js/script.js"> </script>
 
