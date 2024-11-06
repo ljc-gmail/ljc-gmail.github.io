@@ -237,6 +237,45 @@
           </div>
         </div>
     
+    <div class="sidebar-inner sidebar-blogroll">
+      <div class="links-of-blogroll animated">
+        <div class="links-of-blogroll-title">
+          <i class="fa-solid fa-quote-left fa-fw"></i>
+          每日一言
+          <i class="fa-solid fa-quote-right fa-fw"></i>
+        </div>
+        <div class="site-description" >
+            <span id="hitokoto_text">
+						  获取中...
+						</span>
+            <br>
+            <span id="hitokoto_from" style="text-align: right;">
+						  获取中...
+						</span>
+        </div>
+      </div>
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('https://v1.hitokoto.cn/?c=i')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const hitokoto = document.querySelector('#hitokoto_text')
+                    const book = document.querySelector('#hitokoto_from')
+                    hitokoto.innerText = '“' + data.hitokoto + '” '
+                    book.innerText = '--' + data.from
+                })
+                .catch(error => {
+                    console.error('There has been a problem with your fetch operation:', error);
+                });
+        });
+    </script>
+    </div>
+
     
     <div class="sidebar-inner sidebar-blogroll">
       <div class="links-of-blogroll animated">
@@ -253,6 +292,7 @@
         </ul>
       </div>
     </div>
+
 
 
   </aside>
