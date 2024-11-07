@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/5.0.31/fancybox/fancybox.css" integrity="sha256-gkQVf8UKZgQ0HyuxL/VnacadJ+D2Kox2TCEBuNQg5+w=" crossorigin="anonymous">
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"ljc-gmail.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.21.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":true,"style":"mac"},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"ljc-gmail.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.21.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":true,"style":"mac"},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":"gitalk","storage":true,"lazyload":false,"nav":null,"activeClass":"gitalk"},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
 <script defer src="https://cloud.umami.is/script.js" data-website-id="5030438b-e543-4009-bad4-57d825a3e887"></script>
 
@@ -35,8 +35,8 @@
 <meta property="article:modified_time" content="2022-01-15T11:22:34.510Z">
 <meta property="article:author" content="ljcman">
 <meta property="article:tag" content="学潮">
-<meta property="article:tag" content="邓小平">
 <meta property="article:tag" content="社会动乱">
+<meta property="article:tag" content="邓小平">
 <meta name="twitter:card" content="summary">
 
 
@@ -49,6 +49,9 @@
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>学潮研究（一）邓公的讲话 | 他的国</title>
   
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-7MG1KWEN0C"></script>
+  <script class="next-config" data-name="google_analytics" type="application/json">{"tracking_id":"G-7MG1KWEN0C","only_pageview":false,"measure_protocol_api_secret":null}</script>
+  <script src="/js/third-party/analytics/google-analytics.js"></script>
 
 
 
@@ -229,45 +232,6 @@
 
           </div>
         </div>
-    
-    <div class="sidebar-inner sidebar-blogroll">
-      <div class="links-of-blogroll animated">
-        <div class="links-of-blogroll-title">
-          <i class="fa-solid fa-quote-left fa-fw"></i>
-          每日一言
-          <i class="fa-solid fa-quote-right fa-fw"></i>
-        </div>
-        <div class="site-description" >
-            <span id="hitokoto_text">
-						  获取中...
-						</span>
-            <br>
-            <span id="hitokoto_from" style="text-align: right;">
-						  获取中...
-						</span>
-        </div>
-      </div>
-      <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            fetch('https://v1.hitokoto.cn/?c=i')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Network response was not ok');
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    const hitokoto = document.querySelector('#hitokoto_text')
-                    const book = document.querySelector('#hitokoto_from')
-                    hitokoto.innerText = '“' + data.hitokoto + '” '
-                    book.innerText = '--' + data.from
-                })
-                .catch(error => {
-                    console.error('There has been a problem with your fetch operation:', error);
-                });
-        });
-    </script>
-    </div>
 
     
     <div class="sidebar-inner sidebar-blogroll">
@@ -449,8 +413,8 @@
 
           <div class="post-tags">
               <a href="/tags/%E5%AD%A6%E6%BD%AE/" rel="tag"><i class="fa fa-tag"></i> 学潮</a>
-              <a href="/tags/%E9%82%93%E5%B0%8F%E5%B9%B3/" rel="tag"><i class="fa fa-tag"></i> 邓小平</a>
               <a href="/tags/%E7%A4%BE%E4%BC%9A%E5%8A%A8%E4%B9%B1/" rel="tag"><i class="fa fa-tag"></i> 社会动乱</a>
+              <a href="/tags/%E9%82%93%E5%B0%8F%E5%B9%B3/" rel="tag"><i class="fa fa-tag"></i> 邓小平</a>
           </div>
 
         
@@ -460,6 +424,11 @@
     <a class="a2a_dd" target="_blank" rel="noopener" href="https://www.addtoany.com/share"></a>
       <a class="a2a_button_facebook"></a>
       <a class="a2a_button_twitter"></a>
+      <a class="a2a_button_douban"></a>
+      <a class="a2a_button_wechat"></a>
+      <a class="a2a_button_sina_weibo"></a>
+      <a class="a2a_button_email"></a>
+      <a class="a2a_button_copy_link"></a>
   </div>
 
           <div class="post-nav">
