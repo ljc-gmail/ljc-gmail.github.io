@@ -1,0 +1,67 @@
+
+
+.ccontainer {
+	display: block; /* 默认显示 */
+    text-align: center;
+    background: #fff;
+	font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    max-width: 250px;
+    width: 100%; /* 这将被 max-width 覆盖，在父容器足够宽时 */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    
+    /* 新增的定位样式 */
+    position: absolute;
+    top: 20px; /* 距离顶部20px */
+    right: 20px; /* 距离右侧20px */
+    z-index: 1000; /* 确保它位于其他元素之上 */
+    /* 为了防止容器变大，确保没有额外的宽度或高度样式 */
+    box-sizing: border-box; /* 包括内边距和边框在内计算宽度和高度 */
+}
+
+ @media (max-width: 768px) {
+            .ccontainer {
+                display: none; /* 在移动端隐藏 */
+            }
+        }
+.ccontainer:hover {
+    transform: translateY(-10px); /* 悬停时向上移动10px */
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); /* 悬停时增加阴影 */
+}
+
+.visitor-info {
+    margin-top: 20px;
+	color: #333;
+}
+
+.visitor-info span {
+    display: block;
+    margin: 10px 0;
+    color: #333;
+}
+
+.visitor-location {
+    color: #cb4c46;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.visitor-ip {
+    color: #2d80c2;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.weather-info {
+    margin-top: 20px;
+    color: #555;
+}
+
+.weather-icon {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* 你可以在这里添加更多的CSS样式来美化你的网页 */
