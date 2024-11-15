@@ -1320,7 +1320,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #f18c9e;
+    background: #ff9009;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3028,6 +3028,9 @@ span#inline-yellow {
 }
 span#inline-green {
   background-color: #5cb85c;
+}
+.kai-ti {
+  font-family: 'KaiTi', '楷体', 'STKaiti', '华文楷体', serif;
 }
 code {
   padding: 2px 4px;
