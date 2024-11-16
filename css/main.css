@@ -1320,7 +1320,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #2ab5a1;
+    background: #7952a2;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3030,7 +3030,24 @@ span#inline-green {
   background-color: #5cb85c;
 }
 .kai-ti {
-  font-family: 'KaiTi', '楷体', 'STKaiti', '华文楷体', serif;
+  font-family: '楷体', 'STKaiti', '华文楷体', 'KaiTi', "LXGW WenKai Screen", serif;
+}
+.site-brand-container {
+  background: url("/images/header-pink.webp");
+  background-position: 70% 20%;
+  background-size: cover;
+  border-radius: 20px 20px 0px 0px;
+}
+.header,
+.main-inner {
+  margin-top: 10px;
+}
+.site-title {
+  font-family: "LXGW WenKai Screen", sans-serif;
+}
+.div-curlmap-ljc {
+  margin-top: 12px;
+  border-radius: 20px;
 }
 code {
   padding: 2px 4px;
