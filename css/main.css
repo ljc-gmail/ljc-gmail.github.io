@@ -1320,7 +1320,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #aa1378;
+    background: #ff120a;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3048,6 +3048,15 @@ span#inline-green {
 .div-curlmap-ljc {
   margin-top: 12px;
   border-radius: 20px;
+}
+/* 媒体查询，针对屏幕宽度小于或等于600px的设备 */
+@media (max-width: 767px) {
+  .site-brand-container {
+    border-radius: 0px 0px 0px 0px; /* 移动设备上的样式 */
+  }
+  .header {
+    margin-top: 0px;
+  }
 }
 code {
   padding: 2px 4px;
