@@ -1320,7 +1320,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #f1d6e7;
+    background: #e05270;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3101,6 +3101,9 @@ span#inline-green {
   font-size: 1.5em;
   font-weight: bold;
   color: #fff;
+}
+.main-inner .sub-menu {
+  background: linear-gradient(90deg, rgba(247,149,51,0.102) 0, rgba(243,112,85,0.102) 15%, rgba(239,78,123,0.102) 30%, rgba(161,102,171,0.102) 44%, rgba(80,115,184,0.102) 58%, rgba(16,152,173,0.102) 72%, rgba(7,179,155,0.102) 86%, rgba(109,186,130,0.102) 100%);
 }
 code {
   padding: 2px 4px;
