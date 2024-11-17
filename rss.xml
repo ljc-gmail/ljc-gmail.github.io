@@ -7,60 +7,60 @@
         <language>zh-CN</language>
         <pubDate>Sun, 17 Nov 2024 03:03:01 +0800</pubDate>
         <lastBuildDate>Sun, 17 Nov 2024 03:03:01 +0800</lastBuildDate>
-        <category>转载</category>
-        <category>许知远</category>
-        <category>知识分子</category>
-        <category>杨继绳</category>
-        <category>encryption_test</category>
-        <category>学潮</category>
         <category>江泽民主席</category>
         <category>采访</category>
+        <category>学潮</category>
+        <category>知识分子</category>
+        <category>杨继绳</category>
+        <category>转载</category>
+        <category>许知远</category>
+        <category>encryption_test</category>
         <category>UFO</category>
         <category>蓝皮书计划</category>
+        <category>超自然现象</category>
         <category>FT中文网</category>
         <category>张力奋</category>
         <category>自由派</category>
-        <category>超自然现象</category>
-        <category>蜥蜴人</category>
         <category>星门计划</category>
         <category>异能</category>
+        <category>蜥蜴人</category>
+        <category>银河联盟</category>
         <category>站点测试</category>
         <category>南开</category>
-        <category>东欧</category>
-        <category>金雁</category>
-        <category>银河联盟</category>
         <category>刘瑜</category>
         <category>盛世危言</category>
+        <category>东欧</category>
+        <category>金雁</category>
+        <category>苏轼</category>
+        <category>“六二”逃港事件</category>
         <category>文革往事</category>
         <category>权能主义</category>
         <category>威权主义</category>
         <category>中国政治体制</category>
-        <category>苏轼</category>
-        <category>“六二”逃港事件</category>
         <category>傅莹</category>
         <category>人大代表制度</category>
         <category>公知</category>
         <category>李敖</category>
         <category>人性的复杂</category>
+        <category>生活</category>
         <category>香港问题</category>
         <category>当代人身份认同</category>
         <category>华夷之辩</category>
-        <category>卢克文</category>
-        <category>生活</category>
         <category>舆论</category>
         <category>言论自由</category>
-        <category>官方资料</category>
-        <category>社会动乱</category>
+        <category>卢克文</category>
         <category>邓小平</category>
+        <category>社会动乱</category>
+        <category>官方资料</category>
         <category>赵紫阳</category>
         <category>威权</category>
         <category>船夫</category>
         <category>暴乱</category>
-        <category>社会思潮</category>
-        <category>中国社科院</category>
         <category>大众舆论</category>
         <category>现状思考</category>
         <category>历史研究和官方论述的差异</category>
+        <category>社会思潮</category>
+        <category>中国社科院</category>
         <category>公民社会</category>
         <category>周濂</category>
         <category>玄学</category>
@@ -70,11 +70,11 @@
         <category>Brew_note_文化沙龙</category>
         <category>李嗣涔</category>
         <category>挠场</category>
-        <category>月球起源</category>
         <category>孙储琳</category>
+        <category>火星男孩</category>
+        <category>月球起源</category>
         <category>许知远的个人博客</category>
         <category>疫情</category>
-        <category>火星男孩</category>
         <category>政治压迫下的个体</category>
         <category>陈宜中</category>
         <category>钱永祥</category>
@@ -519,7 +519,33 @@
 &lt;/p&gt;
 
 &lt;h2 id=&#34;custom-file测试&#34;&gt;&lt;a href=&#34;#custom-file测试&#34; class=&#34;headerlink&#34; title=&#34;custom_file测试&#34;&gt;&lt;/a&gt;custom_file测试&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;/customize-header-test/&#34;&gt;自定义文件测试网页&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;自定义html代码测试&#34;&gt;&lt;a href=&#34;#自定义html代码测试&#34; class=&#34;headerlink&#34; title=&#34;自定义html代码测试&#34;&gt;&lt;/a&gt;自定义html代码测试&lt;/h2&gt;&lt;h3 id=&#34;歌单&#34;&gt;&lt;a href=&#34;#歌单&#34; class=&#34;headerlink&#34; title=&#34;歌单&#34;&gt;&lt;/a&gt;歌单&lt;/h3&gt;&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=450 src=&#34;//music.163.com/outchain/player?type=0&amp;id=12748367586&amp;auto=0&amp;height=430&#34;&gt;&lt;/iframe&gt; ]]></description>
+&lt;h1 id=&#34;古文排版测试&#34;&gt;&lt;a href=&#34;#古文排版测试&#34; class=&#34;headerlink&#34; title=&#34;古文排版测试&#34;&gt;&lt;/a&gt;古文排版测试&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://sivan.github.io/heti/#example-vertical&#34;&gt;赫蹏 - 一个简约又简单的网页中文排版增强&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;heti heti--ancient&#34;&gt;
+  &lt;h2&gt;一剪梅·红藕香残玉簟秋&lt;span class=&#34;heti-meta heti-small&#34;&gt;[宋]&lt;abbr title=&#34;号易安居士&#34;&gt;李清照&lt;/abbr&gt;&lt;/span&gt;&lt;/h2&gt;
+  &lt;p class=&#34;heti-verse heti-x-large&#34;&gt;
+    红藕香残玉簟秋。轻解罗裳，独上兰舟&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;&lt;br&gt;
+    云中谁寄锦书来，雁字回时，月满西楼&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;&lt;br&gt;
+    花自飘零水自流。一种相思，两处闲愁&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;&lt;br&gt;
+    此情无计可消除，才下眉头，却上心头&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+
+
+
+&lt;div class=&#34;heti--vertical heti--ancient&#34;&gt;
+              &lt;h1&gt;出師表&lt;/h1&gt;
+              &lt;p class=&#34;heti-small&#34;&gt;作者：&lt;abbr title=&#34;字孔明&#34;&gt;諸葛亮&lt;/abbr&gt;（&lt;heti-spacing class=&#34;heti-spacing-start&#34;&gt;181&lt;/heti-spacing&gt;年－&lt;heti-spacing class=&#34;heti-spacing-start&#34;&gt;234&lt;/heti-spacing&gt;年&lt;heti-spacing class=&#34;heti-spacing-start heti-spacing-end&#34;&gt;10&lt;/heti-spacing&gt;月&lt;heti-spacing class=&#34;heti-spacing-start heti-spacing-end&#34;&gt;8&lt;/heti-spacing&gt;日）&lt;/p&gt;
+              &lt;p&gt;先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。&lt;/p&gt;
+              &lt;p&gt;誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。&lt;/p&gt;
+              &lt;p&gt;宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。&lt;/p&gt;
+              &lt;p&gt;侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能&lt;heti-adjacent class=&#34;heti-adjacent-half&#34;&gt;」&lt;/heti-adjacent&gt;，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。&lt;/p&gt;
+              &lt;p&gt;親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。&lt;/p&gt;
+            &lt;/div&gt;
+
+
+&lt;h1 id=&#34;自定义html代码测试&#34;&gt;&lt;a href=&#34;#自定义html代码测试&#34; class=&#34;headerlink&#34; title=&#34;自定义html代码测试&#34;&gt;&lt;/a&gt;自定义html代码测试&lt;/h1&gt;&lt;h3 id=&#34;歌单&#34;&gt;&lt;a href=&#34;#歌单&#34; class=&#34;headerlink&#34; title=&#34;歌单&#34;&gt;&lt;/a&gt;歌单&lt;/h3&gt;&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=450 src=&#34;//music.163.com/outchain/player?type=0&amp;id=12748367586&amp;auto=0&amp;height=430&#34;&gt;&lt;/iframe&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://ljcgm.limoran.cc/posts/fed5f638.html</guid>
