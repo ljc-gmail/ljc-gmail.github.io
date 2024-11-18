@@ -1320,7 +1320,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #cd28ac;
+    background: #add07c;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -3104,6 +3104,12 @@ span#inline-green {
 }
 .main-inner .sub-menu {
   background: linear-gradient(90deg, rgba(247,149,51,0.102) 0, rgba(243,112,85,0.102) 15%, rgba(239,78,123,0.102) 30%, rgba(161,102,171,0.102) 44%, rgba(80,115,184,0.102) 58%, rgba(16,152,173,0.102) 72%, rgba(7,179,155,0.102) 86%, rgba(109,186,130,0.102) 100%);
+}
+/* 脚注在移动设备上不显示，防止响应式页面失效 */
+@media (max-width: 767px) {
+  #footnotes {
+    display: none;
+  }
 }
 code {
   padding: 2px 4px;
