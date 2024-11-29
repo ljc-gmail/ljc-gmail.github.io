@@ -50,7 +50,7 @@
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="http://3650000.xyz/api/bing.php">
 <meta property="article:published_time" content="2024-11-18T08:23:42.000Z">
-<meta property="article:modified_time" content="2024-11-29T09:21:38.149Z">
+<meta property="article:modified_time" content="2024-11-29T17:14:53.477Z">
 <meta property="article:author" content="ljcman">
 <meta property="article:tag" content="知识分子,学潮,文革,政治体制,社会">
 <meta name="twitter:card" content="summary">
@@ -366,7 +366,7 @@
 </div>
 <script>
         // 使用fetch API获取JSON数据
-        fetch('https://junyan.art/xhs.php')
+        fetch('https://junyan.art/xhs2.php')
             .then(response => {
                 // 检查响应是否成功
                 if (!response.ok) {
@@ -377,11 +377,11 @@
             })
             .then(data => {
                 // 从JSON数据中获取图片URL
-                const imageUrl = data.image_url;
-                const httpsImageUrl = imageUrl.replace(/^http:\/\//, 'https://');
+                const imageUrl = data.final_image_url;
+                //const httpsImageUrl = imageUrl.replace(/^http:\/\//, 'https://');
                 // 创建img元素并设置其src属性为图片URL
                 const imgElement = document.createElement('img');
-                imgElement.src = httpsImageUrl;
+                imgElement.src = imageUrl;
                 imgElement.alt = 'Random image from JSON'; // 设置替代文本
                 imgElement.style.zoom = '25%';
                 // 将img元素添加到页面中的指定容器内
@@ -398,6 +398,8 @@
             });
 </script>
 
+<p>小红书图片链接防跨域，无法引用。</p>
+<p><strong>采取的思路是，每请求一个，就下载一个。</strong></p>
 
       </div>
       
