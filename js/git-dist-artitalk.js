@@ -1070,6 +1070,7 @@ atEvery.prototype.beginUpload = function (file) {
     fadeIn('lazy');
     let data = new FormData();
     data.append("file", file);
+	data.append("strategy_id", 2);
     let xhr = new XMLHttpRequest();
     xhr.withCredentials = false;
     xhr.addEventListener("readystatechange", function () {
@@ -1084,8 +1085,9 @@ atEvery.prototype.beginUpload = function (file) {
                 sourceMd = "<video controls width=\"100%\" height=\"auto\"><source src=\"" + sourceUrl.data.links.url + "\"></video>";
             } else if (fileType === "image") {
                 //sourceMd = "![](" + sourceUrl.data.links.url + ")";
-				var modifiedString = sourceUrl.data.links.url.replace("ubuntu", "lankong");
-				sourceMd = "<img src= '"+modifiedString+"'  style='zoom: 40%;' />" ;
+				//var modifiedString = sourceUrl.data.links.url.replace("ubuntu", "lankong");
+				//sourceMd = "<img src= '"+modifiedString+"'  style='zoom: 40%;' />" ;
+				sourceMd = "<img src= '"+sourceUrl.data.links.url+"'  style='zoom: 40%;' />" ;
             }
             insertEmoji(sourceMd);
             document.getElementById('pubShuo').click();
