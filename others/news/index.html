@@ -49,7 +49,7 @@
 <meta property="og:description" content="知乎热榜             .zhihu-container {                 flex: 1;                 padding-right: 20px; &#x2F;* 可选：为右侧内容留出一些空间 *&#x2F;             }             .it-container {                 flex: 1;">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-10-14T13:13:39.000Z">
-<meta property="article:modified_time" content="2024-11-18T07:49:10.545Z">
+<meta property="article:modified_time" content="2024-12-05T10:28:52.478Z">
 <meta property="article:author" content="ljcman">
 <meta property="article:tag" content="知识分子,学潮,文革,政治体制,社会">
 <meta name="twitter:card" content="summary">
@@ -170,7 +170,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9F%A5%E4%B9%8E%E7%83%AD%E6%A6%9C"><span class="nav-number">1.</span> <span class="nav-text">知乎热榜</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#IT%E6%96%B0%E9%97%BB"><span class="nav-number">2.</span> <span class="nav-text">IT新闻</span></a></li></ol></div>
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9F%A5%E4%B9%8E%E7%83%AD%E6%A6%9C"><span class="nav-number">1.</span> <span class="nav-text">知乎热榜</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#IT%E6%96%B0%E9%97%BB"><span class="nav-number">2.</span> <span class="nav-text">IT新闻</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%8E%86%E5%8F%B2%E4%B8%8A%E7%9A%84%E4%BB%8A%E5%A4%A9"><span class="nav-number">3.</span> <span class="nav-text">历史上的今天</span></a></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -290,6 +290,10 @@
                 padding-right: 20px; /* 可选：为右侧内容留出一些空间 */
             }
             .it-container {
+                flex: 1;
+                padding-right: 20px; /* 可选：为右侧内容留出一些空间 */
+            }
+            .history-container {
                 flex: 1;
                 padding-right: 20px; /* 可选：为右侧内容留出一些空间 */
             }
@@ -434,6 +438,35 @@
         .catch(error => {
             console.error('There was a problem with the fetch operation:', error);
             document.getElementById('it-container').innerHTML = '<p>Sorry, an error occurred while fetching the data.</p>';
+        });
+</script>
+
+<h1 id="历史上的今天"><a href="#历史上的今天" class="headerlink" title="历史上的今天"></a>历史上的今天</h1><div id="history-container">
+    <!-- 热门话题列表将被插入到这里 -->
+</div>
+<script>
+ fetch('https://weiboimg.junyan.art/history')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then((json) => {
+            let html = '<div class="zhihu-list">';
+            for (let item of json.data) {
+                html += `<div class="zhihu-list-item">
+                              <div class="zhihu-hotness">${i}</div>
+                              <span class="zhihu-title"><a title="${item.title}" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a></span>
+                              <div class="zhihu-hot"><span>${item.year}</span></div>
+                          </div>`;
+            }
+            html += '</div>';
+            document.getElementById('history-container').innerHTML = html;
+        })
+        .catch(error => {
+            console.error('There was a problem with the fetch operation:', error);
+            document.getElementById('history-container').innerHTML = '<p>Sorry, an error occurred while fetching the data.</p>';
         });
 </script>
       </div>
