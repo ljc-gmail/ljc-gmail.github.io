@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+
+
+Sitemap: https://ljcgm.limoran.cc/sitemap.xml
+Sitemap: https://ljcgm.limoran.cc/atom.xml
+Sitemap: https://ljcgm.limoran.cc/baidusitemap.xml
