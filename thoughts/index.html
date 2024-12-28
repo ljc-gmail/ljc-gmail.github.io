@@ -51,7 +51,7 @@
 <meta property="og:description" content="var gitalk &#x3D; new Gitalk({   clientID: &#39;Ov23li22Nr2ZzqNHazn7&#39;,   clientSecret: &#39;9739941eab2f1892ce2c2b9d41b08f404c7bac51&#39;,   repo: &#39;ljc-gmail.github.io&#39;,   owner: &#39;ljc-gmail&#39;,   admin: [&#39;ljc-gmail&#39;,&#39;">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2024-11-07T15:45:57.000Z">
-<meta property="article:modified_time" content="2024-12-28T01:33:17.210Z">
+<meta property="article:modified_time" content="2024-12-28T01:51:18.366Z">
 <meta property="article:author" content="ljcman">
 <meta property="article:tag" content="知识分子,学潮,文革,政治体制,社会">
 <meta name="twitter:card" content="summary">
@@ -348,20 +348,24 @@ var gitalk = new Gitalk({
   distractionFreeMode: true  // Facebook-like distraction free mode
 })
 gitalk.render('gitalk-container')
-var postBodyDiv = document.querySelector('.post-body'); 
-if (postBodyDiv) {
-    var images = postBodyDiv.getElementsByTagName('img');
-    for (var i = 0; i < images.length; i++) {
-        images[i].style.zoom = '40%'; // 注意：zoom属性在某些浏览器中可能不被支持
-        // 为了确保在所有浏览器中都有类似效果，可以添加以下代码作为备选
-        //images[i].style.transform = 'scale(0.4)'; // scale(0.4)相当于缩小到原来的40%
-        //images[i].style.transformOrigin = '0 0'; // 设置变换的原点（可选）
-    }
-} else {
-    console.warn('未找到class为"post-body"的div元素');
-}
 </script>
 
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+            var postBodyDiv = document.querySelector('.post-body');
+            // 检查是否找到了该div元素
+            if (postBodyDiv) {
+                // 获取该div内的所有img标签
+                var images = postBodyDiv.getElementsByTagName('img');
+                // 遍历所有img标签并修改它们的style属性
+                for (var i = 0; i < images.length; i++) {
+                    images[i].style.zoom = '40%';
+                }
+            } else {
+                console.warn('未找到class为"post-body"的div元素');
+            }
+        });
+</script>
       </div>
       
       
