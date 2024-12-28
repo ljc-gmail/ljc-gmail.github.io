@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>他的国 • Posts by &#34;站点测试&#34; tag</title>
+        <link>https://ljcgm.limoran.cc</link>
+        <description>“杯子碰到一起,都是梦破碎的声音。”</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 14 Oct 2024 17:12:15 +0800</pubDate>
+        <lastBuildDate>Mon, 14 Oct 2024 17:12:15 +0800</lastBuildDate>
+        <category>江泽民主席</category>
+        <category>采访</category>
+        <category>学潮</category>
+        <category>转载</category>
+        <category>许知远</category>
+        <category>知识分子</category>
+        <category>杨继绳</category>
+        <category>encryption_test</category>
+        <category>FT中文网</category>
+        <category>张力奋</category>
+        <category>自由派</category>
+        <category>UFO</category>
+        <category>超自然现象</category>
+        <category>蓝皮书计划</category>
+        <category>蜥蜴人</category>
+        <category>星门计划</category>
+        <category>异能</category>
+        <category>钱理群</category>
+        <category>陈宜中</category>
+        <category>站点测试</category>
+        <category>银河联盟</category>
+        <category>东欧</category>
+        <category>金雁</category>
+        <category>刘瑜</category>
+        <category>盛世危言</category>
+        <category>南开</category>
+        <category>苏轼</category>
+        <category>“六二”逃港事件</category>
+        <category>权能主义</category>
+        <category>威权主义</category>
+        <category>中国政治体制</category>
+        <category>文革往事</category>
+        <category>傅莹</category>
+        <category>人大代表制度</category>
+        <category>香港问题</category>
+        <category>当代人身份认同</category>
+        <category>公知</category>
+        <category>李敖</category>
+        <category>人性的复杂</category>
+        <category>华夷之辩</category>
+        <category>生活</category>
+        <category>反右</category>
+        <category>卢克文</category>
+        <category>舆论</category>
+        <category>言论自由</category>
+        <category>邓小平</category>
+        <category>社会动乱</category>
+        <category>官方资料</category>
+        <category>赵紫阳</category>
+        <category>威权</category>
+        <category>船夫</category>
+        <category>暴乱</category>
+        <category>社会思潮</category>
+        <category>中国社科院</category>
+        <category>大众舆论</category>
+        <category>现状思考</category>
+        <category>历史研究和官方论述的差异</category>
+        <category>玄学</category>
+        <category>轮回</category>
+        <category>公民社会</category>
+        <category>周濂</category>
+        <category>梁文道</category>
+        <category>周保松</category>
+        <category>Brew_note_文化沙龙</category>
+        <category>孙储琳</category>
+        <category>火星男孩</category>
+        <category>月球起源</category>
+        <category>许知远的个人博客</category>
+        <category>疫情</category>
+        <category>李嗣涔</category>
+        <category>挠场</category>
+        <category>钱永祥</category>
+        <category>政治压迫下的个体</category>
+        <category>马国川</category>
+        <category>维稳</category>
+        <category>随笔</category>
+        <category>港人心态</category>
+        <category>黄子华</category>
+        <category>雨伞革命</category>
+        <item>
+            <guid isPermalink="true">https://ljcgm.limoran.cc/posts/4a17b156.html</guid>
+            <title>一场文艺复兴的测试</title>
+            <link>https://ljcgm.limoran.cc/posts/4a17b156.html</link>
+            <category>站点测试</category>
+            <pubDate>Mon, 14 Oct 2024 17:12:15 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;script class=&#34;meting-secondary-script-marker&#34; src=&#34;\assets\js\Meting.min.js&#34;&gt;&lt;/script&gt;&lt;img data-src=&#34;../images/chunking-express.jpg&#34; alt=&#34;chunking-express&#34; style=&#34;zoom: 10%;&#34; /&gt;
+
+&lt;p&gt;“不知道從什麽時候開始，在每個東西上都有一個日期。秋刀魚會過期，肉醬會過期，連保鮮紙都會過期，我開始懷疑在這個世界上還有什麽東西是不會過期的？”&lt;/p&gt;
+&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+
+&lt;h1 id=&#34;序言&#34;&gt;&lt;a href=&#34;#序言&#34; class=&#34;headerlink&#34; title=&#34;序言&#34;&gt;&lt;/a&gt;序言&lt;/h1&gt;&lt;p&gt;这是一个对于新的github博客的测试文档。&lt;/p&gt;
+&lt;p&gt;由于原先的博客近三年来缺乏维护，导致难以部署，只能使用旧版&lt;code&gt;node.js-12.4.0&lt;/code&gt;进行部署，还状况频出，故放弃。&lt;/p&gt;
+&lt;p&gt;原博客链接为：&lt;a href=&#34;https://we1005.junyan.art/&#34;&gt;他的国 (junyan.art)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;现采用最新的&lt;code&gt;node.js-20.18.0&lt;/code&gt;进行建站，但愿能继续长久维护下去。&lt;/p&gt;
+&lt;h2 id=&#34;引用测试&#34;&gt;&lt;a href=&#34;#引用测试&#34; class=&#34;headerlink&#34; title=&#34;引用测试&#34;&gt;&lt;/a&gt;引用测试&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;虞美人·听雨&lt;/p&gt;
+&lt;p&gt;【宋】蒋捷&lt;/p&gt;
+&lt;p&gt;少年听雨歌楼上，红烛昏罗帐。&lt;/p&gt;
+&lt;p&gt;壮年听雨客舟中，江阔云低、断雁叫西风。&lt;/p&gt;
+&lt;p&gt;而今听雨僧庐下，鬓已星星也。&lt;/p&gt;
+&lt;p&gt;悲欢离合总无情，一任阶前、点滴到天明。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;超链接测试&#34;&gt;&lt;a href=&#34;#超链接测试&#34; class=&#34;headerlink&#34; title=&#34;超链接测试&#34;&gt;&lt;/a&gt;超链接测试&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://we1005.junyan.art/posts/cfa2b402.html&#34;&gt;当代中国的三大社会思潮 | 他的国 (junyan.art)&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;代码测试&#34;&gt;&lt;a href=&#34;#代码测试&#34; class=&#34;headerlink&#34; title=&#34;代码测试&#34;&gt;&lt;/a&gt;代码测试&lt;/h2&gt;&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;double&lt;/span&gt;&amp;amp; &lt;span class=&#34;title&#34;&gt;lala&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;type&#34;&gt;double&lt;/span&gt; arg[])&lt;/span&gt;&lt;span class=&#34;comment&#34;&gt;//返回一个引用类型&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;double&lt;/span&gt;&amp;amp; a = arg[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; a;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;type&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;double&lt;/span&gt; d_array[&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;] = &amp;#123; &lt;span class=&#34;number&#34;&gt;0.00&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;1.23&lt;/span&gt;,&lt;span class=&#34;number&#34;&gt;3.36&lt;/span&gt; &amp;#125;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;type&#34;&gt;double&lt;/span&gt;&amp;amp; qq = &lt;span class=&#34;built_in&#34;&gt;lala&lt;/span&gt;(d_array);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    qq = &lt;span class=&#34;number&#34;&gt;5.42&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    cout &amp;lt;&amp;lt; d_array[&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;] &amp;lt;&amp;lt; endl;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;主题自带的功能测试&#34;&gt;&lt;a href=&#34;#主题自带的功能测试&#34; class=&#34;headerlink&#34; title=&#34;主题自带的功能测试&#34;&gt;&lt;/a&gt;主题自带的功能测试&lt;/h2&gt;&lt;h3 id=&#34;💥-文本居中引用效果&#34;&gt;&lt;a href=&#34;#💥-文本居中引用效果&#34; class=&#34;headerlink&#34; title=&#34;💥 文本居中引用效果&#34;&gt;&lt;/a&gt;💥 文本居中引用效果&lt;/h3&gt;&lt;blockquote class=&#34;blockquote-center&#34;&gt;
+&lt;p&gt;雁门太守行&lt;/p&gt;
+&lt;p style=&#34;font-family: &#39;楷体&#39;, &#39;STKaiti&#39;, &#39;华文楷体&#39;, &#39;KaiTi&#39;, serif; font-size: 16px;&#34;&gt; 
+    唐·李贺
+&lt;/p&gt;
+
+&lt;p&gt;黑云压城城欲摧，甲光向日金鳞开。&lt;br&gt;角声满天秋色里，塞上燕脂凝夜紫。&lt;br&gt;半卷红旗临易水，霜重鼓寒声不起。&lt;br&gt;报君黄金台上意，提携玉龙为君死。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;🌟文本高亮&#34;&gt;&lt;a href=&#34;#🌟文本高亮&#34; class=&#34;headerlink&#34; title=&#34;🌟文本高亮&#34;&gt;&lt;/a&gt;🌟文本高亮&lt;/h3&gt;&lt;p&gt;Lorem &lt;mark class=&#34;label &#34;&gt;ipsum&lt;/mark&gt; &lt;mark class=&#34;label primary&#34;&gt;dolor sit&lt;/mark&gt; amet, consectetur &lt;mark class=&#34;label success&#34;&gt;adipiscing elit,&lt;/mark&gt; sed &lt;mark class=&#34;label info&#34;&gt;do eiusmod&lt;/mark&gt; tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+&lt;p&gt;Ut enim &lt;em&gt;&lt;mark class=&#34;label warning&#34;&gt;ad&lt;/mark&gt;&lt;/em&gt; minim veniam, quis &lt;strong&gt;&lt;mark class=&#34;label danger&#34;&gt;nostrud&lt;/mark&gt;&lt;/strong&gt; exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate &lt;del&gt;&lt;mark class=&#34;label default&#34;&gt;velit&lt;/mark&gt;&lt;/del&gt; &lt;mark&gt;esse&lt;/mark&gt; cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;div class=&#34;note default&#34;&gt;&lt;p&gt;default html&lt;/p&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;⭐-按钮&#34;&gt;&lt;a href=&#34;#⭐-按钮&#34; class=&#34;headerlink&#34; title=&#34;⭐ 按钮&#34;&gt;&lt;/a&gt;⭐ 按钮&lt;/h3&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;Text&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34; title=&#34;Title&#34;&gt;Text &amp; Title&lt;/a&gt;
+
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-2x&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-lg&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt;Text &amp; Icon (buggy)&lt;/a&gt;
+&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-home fa-fw&#34;&gt;&lt;/i&gt;Text &amp; Icon (fixed width)&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&#34;text-center&#34;&gt;&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-heading&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fab fa-edge&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-times&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-circle-notch&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-italic&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fab fa-scribd&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fab fa-google&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fab fa-chrome&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fab fa-opera&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a class=&#34;btn&#34; href=&#34;#&#34;&gt;&lt;i class=&#34;fa fa-gem fa-rotate-270&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;text-center&#34;&gt;&lt;a class=&#34;btn&#34; href=&#34;https://github.com&#34; title=&#34;GitHub&#34;&gt;&lt;i class=&#34;fab fa-github fa-fw fa-lg&#34;&gt;&lt;/i&gt;GitHub&lt;/a&gt;&lt;/div&gt;
+
+
+
+&lt;h3 id=&#34;🐞-自带的友链标签功能&#34;&gt;&lt;a href=&#34;#🐞-自带的友链标签功能&#34; class=&#34;headerlink&#34; title=&#34;🐞 自带的友链标签功能&#34;&gt;&lt;/a&gt;🐞 自带的友链标签功能&lt;/h3&gt;&lt;div class=&#34;link-grid&#34;&gt;&lt;div class=&#34;link-grid-container&#34;&gt;
+&lt;object class=&#34;link-grid-image&#34; data=&#34;/images/apple-touch-icon-next.png&#34;&gt;&lt;/object&gt;
+&lt;p&gt;Theme NexT&lt;/p&gt;&lt;p&gt;Stay Simple. Stay NexT.&lt;/p&gt;
+&lt;a href=&#34;https://theme-next.js.org/&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;div class=&#34;link-grid-container&#34;&gt;
+&lt;object class=&#34;link-grid-image&#34; data=&#34;/images/apple-touch-icon-next.png&#34;&gt;&lt;/object&gt;
+&lt;p&gt;Theme NexT&lt;/p&gt;&lt;p&gt;Stay Simple. Stay NexT.&lt;/p&gt;
+&lt;a href=&#34;https://theme-next.js.org/&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;div class=&#34;link-grid-container&#34;&gt;
+&lt;object class=&#34;link-grid-image&#34; data=&#34;/images/apple-touch-icon-next.png&#34;&gt;&lt;/object&gt;
+&lt;p&gt;Theme NexT&lt;/p&gt;&lt;p&gt;Stay Simple. Stay NexT.&lt;/p&gt;
+&lt;a href=&#34;https://theme-next.js.org/&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;div class=&#34;link-grid-container&#34;&gt;
+&lt;object class=&#34;link-grid-image&#34; data=&#34;/images/apple-touch-icon-next.png&#34;&gt;&lt;/object&gt;
+&lt;p&gt;Theme NexT&lt;/p&gt;&lt;p&gt;Stay Simple. Stay NexT.&lt;/p&gt;
+&lt;a href=&#34;https://theme-next.js.org/&#34;&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+
+
+&lt;h3 id=&#34;🛠-自带的group-picture功能&#34;&gt;&lt;a href=&#34;#🛠-自带的group-picture功能&#34; class=&#34;headerlink&#34; title=&#34;🛠 自带的group-picture功能&#34;&gt;&lt;/a&gt;🛠 自带的group-picture功能&lt;/h3&gt;&lt;div class=&#34;group-picture&#34;&gt;&lt;div class=&#34;group-picture-row&#34;&gt;&lt;div class=&#34;group-picture-column&#34;&gt;&lt;img data-src=&#34;/images/next.svg&#34;&gt;&lt;/div&gt;&lt;div class=&#34;group-picture-column&#34;&gt;&lt;img data-src=&#34;/images/next.svg&#34;&gt;&lt;/div&gt;&lt;div class=&#34;group-picture-column&#34;&gt;&lt;img data-src=&#34;/images/next.svg&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;🌀自带的gallery功能失效&#34;&gt;&lt;a href=&#34;#🌀自带的gallery功能失效&#34; class=&#34;headerlink&#34; title=&#34;🌀自带的gallery功能失效&#34;&gt;&lt;/a&gt;🌀自带的gallery功能失效&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://theme-next.js.org/docs/advanced-settings/front-matter.html?highlight=gallery#Undocumented-Front-matter-Variables&#34;&gt;https://theme-next.js.org/docs/advanced-settings/front-matter.html?highlight=gallery#Undocumented-Front-matter-Variables&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:4000/next-gallery/gallery-post.html&#34;&gt;Gallery Post | 他的国&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:4000/next-gallery/&#34;&gt;next-gallery | 他的国&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;📖自带的note功能&#34;&gt;&lt;a href=&#34;#📖自带的note功能&#34; class=&#34;headerlink&#34; title=&#34;📖自带的note功能&#34;&gt;&lt;/a&gt;📖自带的note功能&lt;/h3&gt;&lt;div class=&#34;note info&#34;&gt;&lt;h4 id=&#34;Info-Header&#34;&gt;&lt;a href=&#34;#Info-Header&#34; class=&#34;headerlink&#34; title=&#34;Info Header&#34;&gt;&lt;/a&gt;Info Header&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt; to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;note success&#34;&gt;&lt;h4 id=&#34;Success-Header&#34;&gt;&lt;a href=&#34;#Success-Header&#34; class=&#34;headerlink&#34; title=&#34;Success Header&#34;&gt;&lt;/a&gt;Success Header&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt; to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;note warning&#34;&gt;&lt;h4 id=&#34;Warning-Header&#34;&gt;&lt;a href=&#34;#Warning-Header&#34; class=&#34;headerlink&#34; title=&#34;Warning Header&#34;&gt;&lt;/a&gt;Warning Header&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt; to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;note info no-icon&#34;&gt;&lt;h4 id=&#34;No-icon-note&#34;&gt;&lt;a href=&#34;#No-icon-note&#34; class=&#34;headerlink&#34; title=&#34;No icon note&#34;&gt;&lt;/a&gt;No icon note&lt;/h4&gt;&lt;p&gt;Note &lt;strong&gt;without&lt;/strong&gt; icon: &lt;code&gt;note info no-icon&lt;/code&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class=&#34;note danger&#34;&gt;&lt;h4 id=&#34;Danger-Header&#34;&gt;&lt;a href=&#34;#Danger-Header&#34; class=&#34;headerlink&#34; title=&#34;Danger Header&#34;&gt;&lt;/a&gt;Danger Header&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Welcome&lt;/strong&gt; to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo!&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;h3 id=&#34;🌍自定义note&#34;&gt;&lt;a href=&#34;#🌍自定义note&#34; class=&#34;headerlink&#34; title=&#34;🌍自定义note&#34;&gt;&lt;/a&gt;🌍自定义note&lt;/h3&gt;&lt;p&gt;来自：&lt;a href=&#34;https://zenreal.github.io/posts/44730/#%E5%81%B4%E6%AC%84%E5%9C%93%E8%A7%92%E5%8C%96&#34;&gt;最新 Hexo NexT v7.4.1 主題優化 | 雲沐居&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;將以下代碼放&lt;code&gt;source/_data/styles.styl&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight css&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;//自定義NOTE&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.alert&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;padding&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;15px&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;margin-bottom&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;20px&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;1px&lt;/span&gt; solid transparent;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-radius&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;4px&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.alert-success&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#468847&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#dff0d8&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#d6e9c6&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.alert-info&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#3a87ad&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#e2eaee&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#c5d5dd&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.alert-warning&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#c09853&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#fcf8e3&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#faebcc&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;selector-class&#34;&gt;.alert-danger&lt;/span&gt; &amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#b94a48&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;background-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#f2dede&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;attribute&#34;&gt;border-color&lt;/span&gt;: &lt;span class=&#34;number&#34;&gt;#ebccd1&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;div class=&#34;alert alert-success&#34;&gt;&lt;i class=&#34;fa fa-lightbulb-o&#34;&gt;&lt;/i&gt; success&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-info&#34;&gt;&lt;i class=&#34;fa fa-info&#34;&gt;&lt;/i&gt; info&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-warning&#34;&gt;&lt;i class=&#34;fa fa-bell&#34;&gt;&lt;/i&gt; warning&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-danger&#34;&gt;&lt;i class=&#34;fa fa-bug&#34;&gt;&lt;/i&gt; danger&lt;/div&gt;
+
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;alert alert-success&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;i&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;fa fa-lightbulb-o&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;i&lt;/span&gt;&amp;gt;&lt;/span&gt; success&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;🌈&lt;br&gt;🌞&lt;br&gt;🔍&lt;br&gt;这些表情都是哪里来的，为啥默认能显示。&lt;a href=&#34;https://emojiterra.com/&#34;&gt;🐢 EmojiTerra 🌍 | Emoji Copy &amp;amp; Paste&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;favicon生成：&lt;a href=&#34;https://realfavicongenerator.net/&#34;&gt;Favicon Generator for perfect icons on all browsers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;👑可以直接copy的&lt;/p&gt;
+&lt;img data-src=&#34;https://img.junyan.art/img/image-20241116195901982.png&#34; alt=&#34;image-20241116195901982&#34; style=&#34;zoom:50%;&#34; /&gt;
+
+&lt;h3 id=&#34;✅横向tabs&#34;&gt;&lt;a href=&#34;#✅横向tabs&#34; class=&#34;headerlink&#34; title=&#34;✅横向tabs&#34;&gt;&lt;/a&gt;✅横向tabs&lt;/h3&gt;&lt;div class=&#34;tabs&#34; id=&#34;sixth-unique-name&#34;&gt;&lt;ul class=&#34;nav-tabs&#34;&gt;&lt;li class=&#34;tab active&#34;&gt;&lt;a href=&#34;#sixth-unique-name-1&#34;&gt;&lt;i class=&#34;fa fa-text-width&#34;&gt;&lt;/i&gt;Solution 1&lt;/a&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;a href=&#34;#sixth-unique-name-2&#34;&gt;&lt;i class=&#34;fa fa-font&#34;&gt;&lt;/i&gt;Solution 2&lt;/a&gt;&lt;/li&gt;&lt;li class=&#34;tab&#34;&gt;&lt;a href=&#34;#sixth-unique-name-3&#34;&gt;&lt;i class=&#34;fa fa-bold&#34;&gt;&lt;/i&gt;Solution 3&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class=&#34;tab-content&#34;&gt;&lt;div class=&#34;tab-pane active&#34; id=&#34;sixth-unique-name-1&#34;&gt;&lt;p&gt;&lt;strong&gt;This is Tab 1.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&#34;tab-pane&#34; id=&#34;sixth-unique-name-2&#34;&gt;&lt;p&gt;&lt;strong&gt;This is Tab 2.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&#34;tab-pane&#34; id=&#34;sixth-unique-name-3&#34;&gt;&lt;p&gt;&lt;strong&gt;This is Tab 3.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&#34;自定義文字色塊&#34;&gt;&lt;a href=&#34;#自定義文字色塊&#34; class=&#34;headerlink&#34; title=&#34;自定義文字色塊&#34;&gt;&lt;/a&gt;自定義文字色塊&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://zenreal.github.io/posts/44730/#%E5%81%B4%E6%AC%84%E5%9C%93%E8%A7%92%E5%8C%96&#34;&gt;最新 Hexo NexT v7.4.1 主題優化 | 雲沐居&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;inline-blue&#34;&gt;主題配置文件-蓝&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;inline-purple&#34;&gt;主題配置文件-紫&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;inline-yellow&#34;&gt;主題配置文件-黄&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&#34;inline-green&#34;&gt;主題配置文件-绿&lt;/span&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight html&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;tag&#34;&gt;&amp;lt;&lt;span class=&#34;name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;string&#34;&gt;&amp;quot;inline-green&amp;quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;主題配置文件&lt;span class=&#34;tag&#34;&gt;&amp;lt;/&lt;span class=&#34;name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;测试网页自带的字体&#34;&gt;&lt;a href=&#34;#测试网页自带的字体&#34; class=&#34;headerlink&#34; title=&#34;测试网页自带的字体&#34;&gt;&lt;/a&gt;测试网页自带的字体&lt;/h3&gt;&lt;p&gt;啦啦啦啦啦啦&lt;/p&gt;
+&lt;p class=&#34;kai-ti&#34;&gt;
+  这是使用楷体（KaiTi）字体的段落。
+&lt;/p&gt;
+
+&lt;p style=&#34;font-family: &#39;楷体&#39;, &#39;STKaiti&#39;, &#39;华文楷体&#39;, &#39;KaiTi&#39;, serif; font-size: 16px;&#34;&gt;   这是使用楷体（KaiTi）字体且大小为16像素的段落。 &lt;/p&gt;
+
+&lt;p style=&#34;font-family: LXGW WenKai Screen, serif; font-size: 16px;&#34;&gt;  
+    它为用户提供了更适合屏幕阅读的字体版本。通过优化字体显示效果和提升兼容性，该项目为用户带来了更加清晰、舒适和一致的阅读体验。这是使用霞鹜文楷字体。 &lt;/p&gt;
+
+&lt;p style=&#34;font-family: serif; font-size: 16px;&#34;&gt;  
+    这是使用serif字体。 &lt;/p&gt;
+
+&lt;p style=&#34;font-family: &#39;宋体&#39;,SimSun&#39;,serif; font-size: 16px;&#34;&gt;  
+    这是使用宋体。 &lt;/p&gt;
+
+&lt;p style=&#34;font-family: LXGW WenKai Screen, serif;font-size: 22px; color: red; font-weight: bold;&#34;&gt;
+  奇怪，为什么网页默认是18px而不是16px。
+&lt;/p&gt;
+
+&lt;h2 id=&#34;custom-file测试&#34;&gt;&lt;a href=&#34;#custom-file测试&#34; class=&#34;headerlink&#34; title=&#34;custom_file测试&#34;&gt;&lt;/a&gt;custom_file测试&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;/customize-header-test/&#34;&gt;自定义文件测试网页&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;古文排版测试&#34;&gt;&lt;a href=&#34;#古文排版测试&#34; class=&#34;headerlink&#34; title=&#34;古文排版测试&#34;&gt;&lt;/a&gt;古文排版测试&lt;/h1&gt;&lt;p&gt;&lt;a href=&#34;https://sivan.github.io/heti/#example-vertical&#34;&gt;赫蹏 - 一个简约又简单的网页中文排版增强&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;
+/* 默认情况下隐藏移动消息 */
+.hidden-on-desktop {
+    display: none;
+}
+/* 针对移动设备的媒体查询 */
+@media (max-width: 767px) {
+    /* 在移动设备上隐藏原本的div */
+    .heti--ancient {
+        display: none;
+    }
+    /* 在移动设备上显示消息 */
+    .hidden-on-desktop {
+        display: block;
+        text-align: center; /* 可选：使文本居中 */
+        margin-top: 20px;   /* 可选：添加一些顶部外边距 */
+    }
+}
+&lt;/style&gt;
+&lt;div id=&#34;mobile-message&#34; class=&#34;hidden-on-desktop&#34;&gt;请切换到PC端查看&lt;/div&gt;
+
+
+&lt;div class=&#34;heti heti--ancient&#34;&gt;
+  &lt;h2&gt;一剪梅·红藕香残玉簟秋&lt;span class=&#34;heti-meta heti-small&#34;&gt;[宋]&lt;abbr title=&#34;号易安居士&#34;&gt;李清照&lt;/abbr&gt;&lt;/span&gt;&lt;/h2&gt;
+  &lt;p class=&#34;heti-verse heti-x-large&#34;&gt;
+    红藕香残玉簟秋。轻解罗裳，独上兰舟&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;&lt;br&gt;
+    云中谁寄锦书来，雁字回时，月满西楼&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;&lt;br&gt;
+    花自飘零水自流。一种相思，两处闲愁&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;&lt;br&gt;
+    此情无计可消除，才下眉头，却上心头&lt;span class=&#34;heti-hang&#34;&gt;。&lt;/span&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+
+
+
+&lt;div class=&#34;heti--vertical heti--ancient&#34;&gt;
+              &lt;h1&gt;出師表&lt;/h1&gt;
+              &lt;p class=&#34;heti-small&#34;&gt;作者：&lt;abbr title=&#34;字孔明&#34;&gt;諸葛亮&lt;/abbr&gt;（&lt;heti-spacing class=&#34;heti-spacing-start&#34;&gt;181&lt;/heti-spacing&gt;年－&lt;heti-spacing class=&#34;heti-spacing-start&#34;&gt;234&lt;/heti-spacing&gt;年&lt;heti-spacing class=&#34;heti-spacing-start heti-spacing-end&#34;&gt;10&lt;/heti-spacing&gt;月&lt;heti-spacing class=&#34;heti-spacing-start heti-spacing-end&#34;&gt;8&lt;/heti-spacing&gt;日）&lt;/p&gt;
+              &lt;p&gt;先帝創業未半，而中道崩殂；今天下三分，益州疲弊，此誠危急存亡之秋也﹗然侍衞之臣，不懈於內；忠志之士，忘身於外者，蓋追先帝之殊遇，欲報之於陛下也。&lt;/p&gt;
+              &lt;p&gt;誠宜開張聖聽，以光先帝遺德，恢弘志士之氣﹔不宜妄自菲薄，引喻失義，以塞忠諫之路也。&lt;/p&gt;
+              &lt;p&gt;宮中、府中，俱為一體；陟罰臧否，不宜異同。若有作姦、犯科，及為忠善者，宜付有司，論其刑賞，以昭陛下平明之治；不宜偏私，使內外異法也。&lt;/p&gt;
+              &lt;p&gt;侍中、侍郎郭攸之、費禕、董允等，此皆良實，志慮忠純，是以先帝簡拔以遺陛下。愚以為宮中之事，事無大小，悉以咨之，然後施行，必能裨補闕漏，有所廣益。將軍向寵，性行淑均，曉暢軍事，試用於昔日，先帝稱之曰「能&lt;heti-adjacent class=&#34;heti-adjacent-half&#34;&gt;」&lt;/heti-adjacent&gt;，是以眾議舉寵為督。愚以為營中之事，悉以咨之，必能使行陣和睦，優劣得所。&lt;/p&gt;
+              &lt;p&gt;親賢臣，遠小人，此先漢所以興隆也﹔親小人，遠賢臣，此後漢所以傾頹也。先帝在時，每與臣論此事，未嘗不歎息痛恨於桓、靈也！侍中、尚書、長史、參軍，此悉貞良死節之臣，願陛下親之、信之，則漢室之隆，可計日而待也。&lt;/p&gt;
+            &lt;/div&gt;
+
+
+&lt;h1 id=&#34;自定义html代码测试&#34;&gt;&lt;a href=&#34;#自定义html代码测试&#34; class=&#34;headerlink&#34; title=&#34;自定义html代码测试&#34;&gt;&lt;/a&gt;自定义html代码测试&lt;/h1&gt;&lt;h3 id=&#34;歌单&#34;&gt;&lt;a href=&#34;#歌单&#34; class=&#34;headerlink&#34; title=&#34;歌单&#34;&gt;&lt;/a&gt;歌单&lt;/h3&gt;&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=330 height=450 src=&#34;//music.163.com/outchain/player?type=0&amp;id=12748367586&amp;auto=0&amp;height=430&#34;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&#34;切换字体按钮&#34;&gt;&lt;a href=&#34;#切换字体按钮&#34; class=&#34;headerlink&#34; title=&#34;切换字体按钮&#34;&gt;&lt;/a&gt;切换字体按钮&lt;/h3&gt;&lt;style&gt; 
+.gear-container {
+    position: fixed;
+    top: 450px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.gear-button {
+    background-color: #0D8BCD;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.submenu {
+    display: none;
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+    background-color: #0D8BCD;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+.submenu-button {
+    width: 100px;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: #0D8BCD;
+    cursor: pointer;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.submenu-button:hover {
+    background-color: #e0e0e0;
+}
+.submenu.active {
+    display: block;
+}
+&lt;/style&gt;
+&lt;div class=&#34;gear-container&#34;&gt;
+  &lt;button id=&#34;gear-button&#34; class=&#34;gear-button&#34;&gt;⚙️&lt;/button&gt;
+  &lt;div id=&#34;submenu&#34; class=&#34;submenu&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  var submenuElement = document.getElementById(&#39;submenu&#39;);
+  var links = [
+  { text: &#39;楷体&#39;, fontFamily: &#39;KaiTi&#39; }, // 添加 fontFamily 属性来指定字体
+  { text: &#39;鹭霞文楷&#39;, fontFamily: &#39;LXGW WenKai Screen&#39; }, // 示例字体，你可以根据需要更改
+  { text: &#39;Courier New&#39;, fontFamily: &#39;Courier New&#39; }, // 示例字体，你可以根据需要更改
+  { text: &#39;原始字体&#39;, fontFamily: &#39;Noto Serif SC&#39; },
+  { text: &#39;宋体&#39;, fontFamily: &#39;宋体&#39; }
+];
+// 创建一个函数来更改字体
+function changeFont(fontFamily) {
+  document.body.style.fontFamily = fontFamily;
+    // 选择所有具有 .post-body 类的元素，并更改它们的字体家族
+  var postBodies = document.getElementsByClassName(&#39;post-body&#39;);
+  for (var i = 0; i &lt; postBodies.length; i++) {
+    postBodies[i].style.fontFamily = fontFamily;
+  }
+}
+ links.forEach(function(link) {
+  var a = document.createElement(&#39;button&#39;);
+  a.textContent = link.text;
+  a.className = &#39;submenu-button&#39;; 
+  a.onclick = function(event) {
+  changeFont(link.fontFamily); // 调用 changeFont 函数，并传入字体名称
+  };
+  submenuElement.appendChild(a);
+  });
+  document.addEventListener(&#39;DOMContentLoaded&#39;, (event) =&gt; {
+    const gearButton = document.getElementById(&#39;gear-button&#39;);
+    const submenu = document.getElementById(&#39;submenu&#39;);
+    gearButton.addEventListener(&#39;click&#39;, () =&gt; {
+      submenu.classList.toggle(&#39;active&#39;);
+    });
+    // Optionally, close the submenu if a click is detected outside of it
+    document.addEventListener(&#39;click&#39;, (event) =&gt; {
+      if (!submenu.contains(event.target) &amp;&amp; event.target !== gearButton) {
+        submenu.classList.remove(&#39;active&#39;);
+      }
+    });
+  });
+&lt;/script&gt;
+
+ ]]></description>
+        </item>
+    </channel>
+</rss>

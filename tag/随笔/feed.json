@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "他的国 • All posts by \"随笔\" tag",
+    "description": "“杯子碰到一起,都是梦破碎的声音。”",
+    "home_page_url": "https://ljcgm.limoran.cc",
+    "items": [
+        {
+            "id": "https://ljcgm.limoran.cc/posts/430d67de.html",
+            "url": "https://ljcgm.limoran.cc/posts/430d67de.html",
+            "title": "醉里挑灯看剑",
+            "date_published": "2024-09-07T14:02:44.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><script class=\"meting-secondary-script-marker\" src=\"\\assets\\js\\Meting.min.js\"></script><img data-src=\"https://img.junyan.art/img/u=1597568237,2857862710&fm=253&fmt=auto&app=120&f=JPEG.jpeg\" alt=\"img\" style=\"zoom: 33%;\" />\n\n<p>“或许，那一切的一切都随着那台Dell G3的废弃而远去了。 包括年少的梦想，激情，才华，脑力，体力，无尽的欢乐。”</p>\n<p>（2024-09-07夜，于深圳出租屋内。）</p>\n<span id=\"more\"></span>\n\n<hr>\n\n    <div id=\"aplayer-zGheBXpZ\" class=\"aplayer aplayer-tag-marker meting-tag-marker\"\n         data-id=\"22673491\" data-server=\"netease\" data-type=\"song\" data-mode=\"circulation\" data-autoplay=\"false\" data-mutex=\"true\" data-listmaxheight=\"340px\" data-preload=\"auto\" data-theme=\"#ad7a86\"\n    ></div>\n\n</br>\n\n<p>在助眠藥生效的混沌状態下， 我翻閱了當年寫的博客 ，主要是梳理那幾段歷史和政治哲學的文章 。</p>\n<p>想起了當年的豪情萬丈 當初立志要對大中華區的歷史，政治制度構成一個系統性認識。 最終匯聚成一本横跨政史哲的学潜筆記，探索未来道路。</p>\n<p>即便是在課業繁忙的大三上學期 我也每天半夜用ipad閱讀大量書籍，在内外網寻找資料，撰寫筆記 那應該是我繼初中之後閱書量最大的時候了。</p>\n<p>當時很喜歡港中大研究比較政治哲學的一些教授 希望將來能够申到港中文，拜入其門下 渴望能够和一群同好之人探討這些問題。曾經也在南開選修過相關課程，希望看到异類思想自由碰撞 可惜課程内容尺度極小，對于核心敏感問題避之不談，畏首畏尾 這讓我尤爲失望。</p>\n<p>後來隨着課業升學壓力的增大，以及身體和精神狀態的雙重崩潰 對于海量資料的整理便終止了，博客也最終定格在了2022年初。 時過境遷，博客中的許多看法早已過時，乃至可笑。</p>\n<p>可惜我再也没有精力，體力，熱情去繼續維護這個建立在github上的博客了。 </p>\n<p>或許，那一切的一切都隨着那臺DellG3的廢弃而遠去了。 包括年少的夢想，激情，才華，腦力，體力，無盡的歡樂。</p>\n<p> “欲買桂花同載酒，終不似，少年游。” (用藥之後，思維遲滞，上述文字遣詞邏輯有些混亂)</p>\n<figure class=\"highlight abnf\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br><span class=\"line\">9</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"string\">&quot;mini:false&quot;</span>  这么写不行。</span><br><span class=\"line\">&#123;% meting <span class=\"string\">&quot;22673491&quot;</span> <span class=\"string\">&quot;netease&quot;</span> <span class=\"string\">&quot;song&quot;</span> <span class=\"string\">&quot;autoplay&quot;</span> <span class=\"string\">&quot;mini&quot;</span> %&#125;  这样写可以。fixed同理</span><br><span class=\"line\">//以下这个原生的不生效</span><br><span class=\"line\">&lt;meting-js</span><br><span class=\"line\">\tserver<span class=\"operator\">=</span><span class=\"string\">&quot;netease&quot;</span></span><br><span class=\"line\">\ttype<span class=\"operator\">=</span><span class=\"string\">&quot;song&quot;</span></span><br><span class=\"line\">\tid<span class=\"operator\">=</span><span class=\"string\">&quot;22673491&quot;</span></span><br><span class=\"line\">    mini<span class=\"operator\">=</span><span class=\"string\">&quot;true&quot;</span>&gt;</span><br><span class=\"line\">&lt;/meting-js&gt;  </span><br></pre></td></tr></table></figure>\n\n",
+            "tags": [
+                "随笔"
+            ]
+        }
+    ]
+}
